@@ -4,7 +4,9 @@
 $programVersion = '0.01';
 $programAuthor = 'kamilbaranski.com';
 $programAuthorWebsite = 'http://kamilbaranski.com/';
-$programDescription = 'this program converts Yamaha Motif XF files (SysEx or John Melas strings) to Yamaha Motif XS files.';
+$programDescription =
+    'this program converts Yamaha Motif XF files (SysEx or John Melas strings)
+    to Yamaha Motif XS files.';
 ```
 
 ```// todo:
