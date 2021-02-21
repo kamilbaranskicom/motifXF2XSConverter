@@ -1,0 +1,1507 @@
+# <fallback no> <name> # xf_waveform_number (followed by comment)
+# list by kamilbaranski.com
+#
+3 S6 Stretch pp St #44
+4 S6 Stretch pp Mn #45
+4 S6 Stretch pp L #46
+4 S6 Stretch pp R #47
+3 S6 Stretch pp St Pan #48
+5 S6 Stretch pp St+ #49
+6 S6 Stretch pp Mn+ #50
+7 S6 Stretch pp St- #51
+8 S6 Stretch pp Mn- #52
+3 S6 Stretch mp St #53
+4 S6 Stretch mp Mn #54
+4 S6 Stretch mp L #55
+4 S6 Stretch mp R #56
+3 S6 Stretch mp St Pan #57
+5 S6 Stretch mp St+ #58
+6 S6 Stretch mp Mn+ #59
+7 S6 Stretch mp St- #60
+8 S6 Stretch mp Mn- #61
+9 S6 Stretch mf St #62
+10 S6 Stretch mf Mn #63
+10 S6 Stretch mf L #64
+10 S6 Stretch mf R #65
+10 S6 Stretch mf St Pan #66
+11 S6 Stretch mf St+ #67
+12 S6 Stretch mf Mn+ #68
+13 S6 Stretch mf St- #69
+14 S6 Stretch mf Mn- #70
+15 S6 Stretch ff St #71
+16 S6 Stretch ff Mn #72
+15 S6 Stretch ff L #73
+15 S6 Stretch ff R #74
+15 S6 Stretch ff St Pan #75
+17 S6 Stretch ff St+ #76
+18 S6 Stretch ff Mn+ #77
+19 S6 Stretch ff St- #78
+20 S6 Stretch ff Mn- #79
+1 S6 Stretch Sw St #80
+2 S6 Stretch Sw Mn #81
+1 S6 Stretch Sw L #82
+1 S6 Stretch Sw R #83
+1 S6 Stretch Sw St Pan #84
+1 S6 Stretch Sw St2 #85
+1 S6 Stretch Sw St+ #86
+2 S6 Stretch Sw Mn+ #87
+1 S6 Stretch Sw St- #88
+2 S6 Stretch Sw Mn- #89
+21 S6 Stretch KeyOff St #90
+22 S6 Stretch KeyOff Mn #91
+22 S6 Stretch KeyOff L #92
+23 S6 Stretch KeyOff R #93
+21 S6 Stretch KeyOfStPn #94
+26 S6 Flat pp St #95
+27 S6 Flat pp Mn #96
+26 S6 Flat pp L #97
+26 S6 Flat pp R #98
+26 S6 Flat pp St Pan #99
+28 S6 Flat pp St+ #100
+29 S6 Flat pp Mn+ #101
+30 S6 Flat pp St- #102
+31 S6 Flat pp Mn- #103
+26 S6 Flat mp St #104
+27 S6 Flat mp Mn #105
+26 S6 Flat mp L #106
+26 S6 Flat mp R #107
+26 S6 Flat mp St Pan #108
+28 S6 Flat mp St+ #109
+29 S6 Flat mp Mn+ #110
+30 S6 Flat mp St- #111
+31 S6 Flat mp Mn- #112
+32 S6 Flat mf St #113
+33 S6 Flat mf Mn #114
+32 S6 Flat mf L #115
+32 S6 Flat mf R #116
+32 S6 Flat mf St Pan #117
+34 S6 Flat mf St+ #118
+35 S6 Flat mf Mn+ #119
+36 S6 Flat mf St- #120
+37 S6 Flat mf Mn- #121
+38 S6 Flat ff St #122
+39 S6 Flat ff Mn #123
+38 S6 Flat ff L #124
+38 S6 Flat ff R #125
+38 S6 Flat ff St Pan #126
+40 S6 Flat ff St+ #127
+41 S6 Flat ff Mn+ #128
+42 S6 Flat ff St- #129
+43 S6 Flat ff Mn- #130
+24 S6 Flat Sw St #131
+25 S6 Flat Sw Mn #132
+24 S6 Flat Sw L #133
+24 S6 Flat Sw R #134
+24 S6 Flat Sw St Pan #135
+24 S6 Flat Sw St2 #136
+24 S6 Flat Sw St+ #137
+25 S6 Flat Sw Mn+ #138
+24 S6 Flat Sw St- #139
+25 S6 Flat Sw Mn- #140
+21 S6 Flat KeyOff St #141
+22 S6 Flat KeyOff Mn #142
+22 S6 Flat KeyOff L #143
+23 S6 Flat KeyOff R #144
+21 S6 Flat KeyOff StPan #145
+111 Clav4 Med #216
+112 Clav4 Med + #217
+113 Clav4 Med - #218
+114 Clav4 Hard #219
+115 Clav4 Hard + #220
+116 Clav4 Hard - #221
+117 Clav Key Off 1 #222	the same just renamed?
+117 Clav Key Off 2 #223
+118 Harpsichord1 #224
+118 Harpsichord2 St #225
+118 Harpsichord2 L #226
+118 Harpsichord2 R #227
+118 Harpsichord2 St+ #228
+118 Harpsichord2 L+ #229
+118 Harpsichord2 R+ #230
+118 Harpsichord2 St- #231
+118 Harpsichord2 L- #232
+118 Harpsichord2 R- #233
+118 Harpsichord2 KOf St #234
+118 Harpsichord2 KOf L #235
+118 Harpsichord2 KOf R #236
+120 Vibraphone1 #241 the same just renamed?
+120 Vibraphone2 Med #242
+120 Vibraphone2 Med+ #243
+120 Vibraphone2 Med- #244
+120 Vibraphone2 Hard #245
+120 Vibraphone2 Hard+ #246
+120 Vibraphone2 Hard- #247
+137 Timpani1 Sw St #251 the same, just renamed...
+138 Timpani1 Soft St #252 ..
+139 Timpani1 Hard St #253 ..
+140 Timpani1 Sw L #254 ..
+141 Timpani1 Soft L #255 ..
+142 Timpani1 Hard L #256 ..
+143 Timpani1 Sw R #257 ..
+144 Timpani1 Soft R #258 ..
+145 Timpani1 Hard R #259 ..
+138 Timpani2 Soft St #260
+141 Timpani2 Soft L #261
+144 Timpani2 Soft R #262
+138 Timpani2 Soft St+ #263
+141 Timpani2 Soft L+ #264
+144 Timpani2 Soft R+ #265
+138 Timpani2 Soft St- #266
+141 Timpani2 Soft L- #267
+144 Timpani2 Soft R- #268
+138 Timpani2 Med St #269
+141 Timpani2 Med L #270
+144 Timpani2 Med R #271
+138 Timpani2 Med St+ #272
+141 Timpani2 Med L+ #273
+144 Timpani2 Med R+ #274
+138 Timpani2 Med St- #275
+141 Timpani2 Med L- #276
+144 Timpani2 Med R- #277
+139 Timpani2 Hard St #278
+142 Timpani2 Hard L #279
+145 Timpani2 Hard R #280
+139 Timpani2 Hard St+ #281
+142 Timpani2 Hard L+ #282
+145 Timpani2 Hard R+ #283
+139 Timpani2 Hard St- #284
+142 Timpani2 Hard L- #285
+145 Timpani2 Hard R- #286
+141 Timpani2 Muffl St #287
+144 Timpani2 Muffl L #288
+138 Timpani2 Muffl R #289
+138 Timpani2 Oct Soft St #290
+141 Timpani2 Oct Soft L #291
+144 Timpani2 Oct Soft R #292
+138 Timpani2 Oct SoftSt+ #293
+141 Timpani2 Oct Soft L+ #294
+144 Timpani2 Oct Soft R+ #295
+138 Timpani2 Oct SoftSt- #296
+141 Timpani2 Oct Soft L- #297
+144 Timpani2 Oct Soft R- #298
+138 Timpani2 Oct Med St #299
+141 Timpani2 Oct Med L #300
+144 Timpani2 Oct Med R #301
+138 Timpani2 Oct Med St+ #302
+141 Timpani2 Oct Med L+ #303
+144 Timpani2 Oct Med R+ #304
+138 Timpani2 Oct Med St- #305
+141 Timpani2 Oct Med L- #306
+144 Timpani2 Oct Med R- #307
+139 Timpani2 Oct Hard St #308
+142 Timpani2 Oct Hard L #309
+145 Timpani2 Oct Hard R #310
+139 Timpani2 Oct HardSt+ #311
+142 Timpani2 Oct Hard L+ #312
+145 Timpani2 Oct Hard R+ #313
+139 Timpani2 Oct HardSt- #314
+142 Timpani2 Oct Hard L- #315
+145 Timpani2 Oct Hard R- #316
+141 Timpani2 Oct Mffl St #317
+144 Timpani2 Oct Muffl L #318
+138 Timpani2 Oct Muffl R #319
+124 Tubular Bell1 #320 same?
+124 Tubular Bell2 #321
+166 Draw 16' #358
+168 Draw 8' #360
+169 Draw 4' #361
+171 Draw 2' #363
+174 Draw 1' #366
+175 Draw 16' Of #367
+177 Draw 8' Of #369
+178 Draw 4' Of #370
+180 Draw 2' Of #372
+183 Draw 1' Of #375
+0 Fr All Tabs #402       			todo: finish the list
+0 Fr Bright Boost #403
+0 Fr Flute #404
+0 Fr String Lo #405
+0 Fr String Hi #406
+0 Fr Trumpet #407
+0 Fr Piccolo #408
+0 Fr Pedal #409
+0 Fr KeyOff #410
+0 Vx Drawbar1-3 #411
+0 Vx DrawbarIV #412
+0 Vx KeyOff #413
+0 Harmonium Side #423
+0 Harmonium Main #424
+0 Accordion1 #425
+0 Accordion2 #426
+0 Accordion3 #427
+0 Tango Accordion1 #428
+0 Tango Accordion2 #429
+0 Tango Accordion Bass #430
+0 Mussete Accordion #431
+0 Steirisch Accordion #432
+0 Nylon Hammer On St #454
+0 Nylon Hammer On L #455
+0 Nylon Hammer On R #456
+0 1Coil Open Sw #533
+0 1Coil Open Soft #534
+0 1Coil Open Med #535
+0 1Coil Open Hard #536
+0 1Coil Dead #537
+0 1Coil Mute #538
+0 1Coil Hammer On #539
+0 1Coil Slide #540
+0 1Coil Harmonics #541
+0 1Coil FX #542
+0 Jazz Open Soft #544
+0 Jazz Open Med #545
+0 Jazz Open Hard #546
+0 Jazz Open Sw #547
+0 Jazz Dead Med #548
+0 Jazz Dead Hard #549
+0 Jazz Hammer On #550
+0 Jazz Slide #551
+0 Jazz Harmonics #552
+0 Jazz FX #553
+0 Banjo1 #570
+0 Banjo2 Med #571
+0 Banjo2 Med+ #572
+0 Banjo2 Med- #573
+0 Banjo2 Hard #574
+0 Banjo2 Hard+ #575
+0 Banjo2 Hard- #576
+0 Sitar1 #577
+0 Sitar2 Soft #578
+0 Sitar2 Soft+ #579
+0 Sitar2 Soft- #580
+0 Sitar2 Med #581
+0 Sitar2 Med+ #582
+0 Sitar2 Med- #583
+0 Sitar2 Hard #584
+0 Sitar2 Hard+ #585
+0 Sitar2 Hard- #586
+0 Pick Rndwound1 Med #622
+0 Pick Rndwound1 Hard #623
+0 Pick Rndwound1 Med+ #624
+0 Pick Rndwound1 Hard+ #625
+0 Pick Rndwound1 Med- #626
+0 Pick Rndwound1 Hard- #627
+0 Pick Rndwound2 Open #628
+0 Pick Rndwound2 Open+ #629
+0 Pick Rndwound2 Open- #630
+0 Pick Rndwound2 Mute #631
+0 Pick Rndwound2 Mute+ #632
+0 Pick Rndwound2 Mute- #633
+0 Pick Rndwound2 Dead #634
+0 Pick Rndwound2 Harm #635
+0 Pick Rndwound2 FX #636
+0 Pick Flatwound #637
+0 Pick Flatwound+ #638
+0 Pick Flatwound- #639
+0 Finger Rndwound Sft #648
+0 Finger Rndwound Sft+ #649
+0 Finger Rndwound Sft- #650
+0 Finger Rndwound Hrd #651
+0 Finger Rndwound Hrd+ #652
+0 Finger Rndwound Hrd- #653
+0 Finger Rndwound Dead #654
+0 Finger Rndwound Harm #655
+0 Sect Strgs Soft St #812
+0 Sect Strgs Soft L #813
+0 Sect Strgs Soft R #814
+0 Sect Strgs Soft St+ #815
+0 Sect Strgs Soft L+ #816
+0 Sect Strgs Soft R+ #817
+0 Sect Strgs Soft St- #818
+0 Sect Strgs Soft L- #819
+0 Sect Strgs Soft R- #820
+0 Sect Strgs SoftSt Of #821
+0 Sect Strgs Soft L Of #822
+0 Sect Strgs Soft R Of #823
+0 Sect Strgs Med St #824
+0 Sect Strgs Med L #825
+0 Sect Strgs Med R #826
+0 Sect Strgs Med St+ #827
+0 Sect Strgs Med L+ #828
+0 Sect Strgs Med R+ #829
+0 Sect Strgs Med St- #830
+0 Sect Strgs Med L- #831
+0 Sect Strgs Med R- #832
+0 Sect Strgs Med St Of #833
+0 Sect Strgs Med L Of #834
+0 Sect Strgs Med R Of #835
+0 Sect Strgs Hard St #836
+0 Sect Strgs Hard L #837
+0 Sect Strgs Hard R #838
+0 Sect Strgs Hard St+ #839
+0 Sect Strgs Hard L+ #840
+0 Sect Strgs Hard R+ #841
+0 Sect Strgs Hard St- #842
+0 Sect Strgs Hard L- #843
+0 Sect Strgs Hard R- #844
+0 Sect Strgs Hard StOf #845
+0 Sect Strgs Hard L Of #846
+0 Sect Strgs Hard R Of #847
+0 Sect Strgs Gliss St #848
+0 Sect Strgs Gliss L #849
+0 Sect Strgs Gliss R #850
+0 Sect Strgs Gliss St+ #851
+0 Sect Strgs Gliss L+ #852
+0 Sect Strgs Gliss R+ #853
+0 Sect Strgs Gliss St- #854
+0 Sect Strgs Gliss L- #855
+0 Sect Strgs Gliss R- #856
+0 Sect Strgs Spicc St #857
+0 Sect Strgs Spicc L #858
+0 Sect Strgs Spicc R #859
+0 Sect Strgs Spicc St+ #860
+0 Sect Strgs Spicc L+ #861
+0 Sect Strgs Spicc R+ #862
+0 Sect Strgs Spicc St- #863
+0 Sect Strgs Spicc L- #864
+0 Sect Strgs Spicc R- #865
+0 Tremolo Strings St #866
+0 Tremolo Strings L #867
+0 Tremolo Strings R #868
+0 Tremolo Strings St+ #869
+0 Tremolo Strings L+ #870
+0 Tremolo Strings R+ #871
+0 Tremolo Strings St- #872
+0 Tremolo Strings L- #873
+0 Tremolo Strings R- #874
+0 Tremolo StringsSt Of #875
+0 Tremolo Strings L Of #876
+0 Tremolo Strings R Of #877
+0 Pizzicato2 #880
+0 Live Pizzct Soft St #891
+0 Live Pizzct Soft L #892
+0 Live Pizzct Soft R #893
+0 Live Pizzct Soft St+ #894
+0 Live Pizzct Soft L+ #895
+0 Live Pizzct Soft R+ #896
+0 Live Pizzct Soft St- #897
+0 Live Pizzct Soft L- #898
+0 Live Pizzct Soft R- #899
+0 Live Pizzct Hard St #900
+0 Live Pizzct Hard L #901
+0 Live Pizzct Hard R #902
+0 Live Pizzct Hard St+ #903
+0 Live Pizzct Hard L+ #904
+0 Live Pizzct Hard R+ #905
+0 Live Pizzct Hard St- #906
+0 Live Pizzct Hard L- #907
+0 Live Pizzct Hard R- #908
+0 Orchestral Harp1 #909
+0 Orch Harp2 Soft St #910
+0 Orch Harp2 Soft L #911
+0 Orch Harp2 Soft R #912
+0 Orch Harp2 Soft St+ #913
+0 Orch Harp2 Soft L+ #914
+0 Orch Harp2 Soft R+ #915
+0 Orch Harp2 Soft St- #916
+0 Orch Harp2 Soft L- #917
+0 Orch Harp2 Soft R- #918
+0 Orch Harp2 Med St #919
+0 Orch Harp2 Med L #920
+0 Orch Harp2 Med R #921
+0 Orch Harp2 Med St+ #922
+0 Orch Harp2 Med L+ #923
+0 Orch Harp2 Med R+ #924
+0 Orch Harp2 Med St- #925
+0 Orch Harp2 Med L- #926
+0 Orch Harp2 Med R- #927
+0 Trumpet2 #932
+0 Trumpet2+ #933
+0 Trumpet2- #934
+0 Trumpet2 Of #935
+0 Soft Trumpet Soft #938
+0 Soft Trumpet Soft+ #939
+0 Soft Trumpet Soft- #940
+0 Soft Trumpet Soft Of #941
+0 Soft Trumpet Med #942
+0 Soft Trumpet Med+ #943
+0 Soft Trumpet Med- #944
+0 Soft Trumpet Med Of #945
+0 Trumpet Vib Soft #946
+0 Trumpet Vib Soft+ #947
+0 Trumpet Vib Soft- #948
+0 Trumpet Vib Soft Of #949
+0 Trumpet Vib Med #950
+0 Trumpet Vib Med+ #951
+0 Trumpet Vib Med- #952
+0 Trumpet Vib Med Of #953
+0 Trumpet Vib Hard #954
+0 Trumpet Vib Hard+ #955
+0 Trumpet Vib Hard- #956
+0 Trumpet Vib Hard Of #957
+0 Trumpet Shake #958
+0 Trumpet Shake+ #959
+0 Trumpet Shake- #960
+0 Trumpet Shake Of #961
+0 Flugelhorn1 #974
+0 Flugelhorn1 Of #975
+0 Flugelhorn2 #976
+0 Flugelhorn2+ #977
+0 Flugelhorn2- #978
+0 Flugelhorn2 Of #979
+0 French Horn Sft St #1043
+0 French Horn Sft L #1044
+0 French Horn Sft R #1045
+0 French Horn Sft St+ #1046
+0 French Horn Sft L+ #1047
+0 French Horn Sft R+ #1048
+0 French Horn Sft St- #1049
+0 French Horn Sft L- #1050
+0 French Horn Sft R- #1051
+0 French Horn Sft StOf #1052
+0 French Horn Sft L Of #1053
+0 French Horn Sft R Of #1054
+0 French Horn SftSt+Of #1055
+0 French Horn Sft L+Of #1056
+0 French Horn Sft R+Of #1057
+0 French Horn SftSt-Of #1058
+0 French Horn Sft L-Of #1059
+0 French Horn Sft R-Of #1060
+0 French Horn Med St #1061
+0 French Horn Med L #1062
+0 French Horn Med R #1063
+0 French Horn Med St+ #1064
+0 French Horn Med L+ #1065
+0 French Horn Med R+ #1066
+0 French Horn Med St- #1067
+0 French Horn Med L- #1068
+0 French Horn Med R- #1069
+0 French Horn Med StOf #1070
+0 French Horn Med L Of #1071
+0 French Horn Med R Of #1072
+0 French Horn MedSt+Of #1073
+0 French Horn Med L+Of #1074
+0 French Horn Med R+Of #1075
+0 French Horn MedSt-Of #1076
+0 French Horn Med L-Of #1077
+0 French Horn Med R-Of #1078
+0 Soprano Sax3 #1083
+0 Soprano Sax3+ #1084
+0 Soprano Sax3- #1085
+0 Soprano Sax3 Of #1086
+0 Alto Sax2 #1089
+0 Alto Sax3 #1093
+0 Alto Sax3+ #1094
+0 Alto Sax3- #1095
+0 Alto Sax3 Of #1096
+0 Tenor Sax2 Soft #1099
+0 Tenor Sax2 Soft+ #1100
+0 Tenor Sax2 Soft- #1101
+0 Tenor Sax2 Soft Of #1102
+0 Tenor Sax2 Falls #1115
+0 Tenor Sax2 Falls+ #1116
+0 Tenor Sax2 Falls- #1117
+0 Piccolo1 #1255
+0 Piccolo1 Of #1256
+0 Piccolo2 St #1257
+0 Piccolo2 L #1258
+0 Piccolo2 R #1259
+0 Piccolo2 St+ #1260
+0 Piccolo2 L+ #1261
+0 Piccolo2 R+ #1262
+0 Piccolo2 St- #1263
+0 Piccolo2 L- #1264
+0 Piccolo2 R- #1265
+0 Piccolo2 St Of #1266
+0 Piccolo2 L Of #1267
+0 Piccolo2 R Of #1268
+0 Granu Vox #1311
+0 Day #1312
+0 So Long #1313
+0 Vocal Osc #1314
+0 OB Brassy Pad St #1351
+0 OB Brassy Pad L #1352
+0 OB Brassy Pad R #1353
+0 Fat PWM St #1354
+0 Fat PWM L #1355
+0 Fat PWM R #1356
+0 Soft Ensemble St #1357
+0 Soft Ensemble L #1358
+0 Soft Ensemble R #1359
+0 Seq Bass #1508
+0 JP Short Seq St #1509
+0 JP Short Seq L #1510
+0 JP Short Seq R #1511
+0 Sharp Perc St #1512
+0 Sharp Perc L #1513
+0 Sharp Perc R #1514
+0 Short Stepper St #1515
+0 Short Stepper L #1516
+0 Short Stepper R #1517
+0 Bell Spectrum St #1564
+0 Bell Spectrum L #1565
+0 Bell Spectrum R #1566
+0 Hybrid Pad St #1567
+0 Hybrid Pad L #1568
+0 Hybrid Pad R #1569
+0 Wavedance St #1570
+0 Wavedance L #1571
+0 Wavedance R #1572
+0 Leftpitch St #1573
+0 Leftpitch L #1574
+0 Leftpitch R #1575
+0 Pitchomat St #1576
+0 Pitchomat L #1577
+0 Pitchomat R #1578
+0 Reflecting St #1579
+0 Reflecting L #1580
+0 Reflecting R #1581
+0 Spectrals St #1582
+0 Spectrals L #1583
+0 Spectrals R #1584
+0 The Fog St #1585
+0 The Fog L #1586
+0 The Fog R #1587
+0 ShakerA 1/3 #1916
+0 ShakerA 1 #1917
+0 ShakerA 2 #1918
+0 ShakerA 3 #1919
+0 ShakerB Sw #1920
+0 ShakerB Shake #1921
+0 ShakerB Hit #1922
+0 Tambourine2 Sw #1930
+0 Tambourine2 Shake #1931
+0 Tambourine2 Hit #1932
+0 Castanet1 #1935
+0 Castanet2 Sw #1936
+0 Castanet2 Soft #1937
+0 Castanet2 Hard #1938
+0 Vibraslap1 #1940
+0 Vibraslap2 #1941
+0 Hand Clap1 St #1945
+0 Hand Clap1 L #1946
+0 Hand Clap1 R #1947
+0 Hand Clap2 Sw #1948
+0 Hand Clap2 Close #1949
+0 Hand Clap2 Open #1950
+0 Finger Snap #1951
+0 Sleigh Bell1 #1954
+0 Sleigh Bell2 #1955
+0 Resin Block Small #1958
+0 Resin Block Large #1959
+0 OrchTamb Shake-Hit #1960
+0 OrchTamb Shake 1-2 #1961
+0 OrchTamb Shake 1 #1962
+0 OrchTamb Shake 2 #1963
+0 OrchTamb Hit Close #1964
+0 OrchTamb Hit Open #1965
+0 Conga1 Hi Tip #1966
+0 Conga1 Hi Heel #1967
+0 Conga1 Hi Open 1-2 #1968
+0 Conga1 Hi Open 1 #1969
+0 Conga1 Hi Open 2 #1970
+0 Conga1 Hi Mute #1971
+0 Conga1 Hi Slap Open #1972
+0 Conga1 Hi Slap #1973
+0 Conga1 Hi SlpMute1-2 #1974
+0 Conga1 Hi SlapMute 1 #1975
+0 Conga1 Hi SlapMute 2 #1976
+0 Conga1 Lo Tip #1977
+0 Conga1 Lo Heel #1978
+0 Conga1 Lo Open 1-2 #1979
+0 Conga1 Lo Open 1 #1980
+0 Conga1 Lo Open 2 #1981
+0 Conga1 Lo Mute #1982
+0 Conga1 Lo Slap Open #1983
+0 Conga2 Hi Heel #1984
+0 Conga2 Hi Tip #1985
+0 Conga2 Hi Slap 1-2 #1986
+0 Conga2 Hi Slap 1 #1987
+0 Conga2 Hi Slap 2 #1988
+0 Conga2 Hi Open 1-2 #1989
+0 Conga2 Hi Open 1 #1990
+0 Conga2 Hi Open 2 #1991
+0 Conga2 Hi Mute #1992
+0 Conga2 Lo Open 1-2 #1993
+0 Conga2 Lo Open 1 #1994
+0 Conga2 Lo Open 2 #1995
+0 Conga2 Lo Slide #1996
+0 Bongo1 Hi 1Fingr 1-2 #2007
+0 Bongo1 Hi 1Finger 1 #2008
+0 Bongo1 Hi 1Finger 2 #2009
+0 Bongo1 Hi 3Fingr 1-2 #2010
+0 Bongo1 Hi 3Finger 1 #2011
+0 Bongo1 Hi 3Finger 2 #2012
+0 Bongo1 Hi Rim #2013
+0 Bongo1 Hi Tip #2014
+0 Bongo1 Hi Heel #2015
+0 Bongo1 Hi Slap #2016
+0 Bongo1 Lo 1Fingr 1-2 #2017
+0 Bongo1 Lo 1Finger 1 #2018
+0 Bongo1 Lo 1Finger 2 #2019
+0 Bongo1 Lo 3Fingr 1-2 #2020
+0 Bongo1 Lo 3Finger 1 #2021
+0 Bongo1 Lo 3Finger 2 #2022
+0 Bongo1 Lo Rim #2023
+0 Bongo1 Lo Tip #2024
+0 Bongo2 Hi Mute #2025
+0 Bongo2 Hi Open 1-2 #2026
+0 Bongo2 Hi Open 1 #2027
+0 Bongo2 Hi Open 2 #2028
+0 Bongo2 Lo Mute #2029
+0 Bongo2 Lo Open 1-2 #2030
+0 Bongo2 Lo Open 1 #2031
+0 Bongo2 Lo Open 2 #2032
+0 Timbale1 Hi 1-3 #2033
+0 Timbale1 Hi 1 #2034
+0 Timbale1 Hi 2 #2035
+0 Timbale1 Hi 3 #2036
+0 Timbale1 Lo 1-2 #2037
+0 Timbale1 Lo 1 #2038
+0 Timbale1 Lo 2 #2039
+0 Timbale1 Rim #2040
+0 Timbale1 Paila H #2041
+0 Timbale1 Paila L #2042
+0 Timbale2 Hi Sw #2043
+0 Timbale2 Hi 1 #2044
+0 Timbale2 Hi 2 #2045
+0 Timbale2 Hi Rim #2046
+0 Timbale2 Lo Sw #2047
+0 Timbale2 Lo 1 #2048
+0 Timbale2 Lo 2 #2049
+0 Timbale2 Lo Rim #2050
+0 CabasaA 1-2 #2059
+0 CabasaA 1 #2060
+0 CabasaA 2 #2061
+0 CabasaB 1-4 #2062
+0 CabasaB 1 #2063
+0 CabasaB 2 #2064
+0 CabasaB 3 #2065
+0 CabasaB 4 #2066
+0 Caxixi 1-2 #2067
+0 Caxixi 1 #2068
+0 Caxixi 2 #2069
+0 MetalGuiro Short 1-2 #2086
+0 MetalGuiro Short 1 #2087
+0 MetalGuiro Short 2 #2088
+0 Surdo1 Open #2090
+0 Surdo1 Mute #2091
+0 Surdo2 Open #2092
+0 Surdo2 Mute #2093
+0 Cajon1 Kick #2094
+0 Cajon1 Slap #2095
+0 Cajon1 Tip 1-2 #2096
+0 Cajon1 Tip 1 #2097
+0 Cajon1 Tip 2 #2098
+0 Cajon2 Foot #2099
+0 Cajon2 Lo #2100
+0 Cajon2 Slap #2101
+0 Cajon2 Mute #2102
+0 Cajon2 Tip #2103
+0 Cajon2 Ghost1 #2104
+0 Cajon2 Ghost2 #2105
+0 Claves1 #2106
+0 Claves2 #2107
+0 Cowbell3 Sw #2111
+0 Cowbell3 Mute #2112
+0 Cowbell3 Open #2113
+0 Mambo Bell Sw #2114
+0 Mambo Bell1 #2115
+0 Mambo Bell2 #2116
+0 Mambo Bell Body #2117
+0 ChaCha Bell Sw #2118
+0 ChaCha Bell #2119
+0 Samba Tambourim Open #2120
+0 Samba Tambourim Slap #2121
+0 Samba Tambourim Mute #2122
+0 Repique Mute #2123
+0 Repique Open 1-2 #2124
+0 Repique Open 1 #2125
+0 Repique Open 2 #2126
+0 Berimbau Med #2127
+0 Berimbau Hard #2128
+0 Djembe1 Edge #2131
+0 Djembe1 Mute #2132
+0 Djembe1 Open #2133
+0 Djembe1 Combi #2134
+0 Djembe2 Lo #2135
+0 Djembe2 Slap #2136
+0 Djembe2 Mute #2137
+0 Djembe3 Lo #2138
+0 Djembe3 Slap #2139
+0 Djembe3 Mute #2140
+0 Shekere Shake Sw #2151
+0 Shekere Slap #2154
+0 TalkingDrum Open #2155
+0 TalkingDrum Slap #2156
+0 TalkingDrum Mute #2157
+0 TalkingDrum Bend 1-4 #2158
+0 TalkingDrum Bend 1 #2159
+0 TalkingDrum Bend 2 #2160
+0 TalkingDrum Bend 3 #2161
+0 TalkingDrum Bend 4 #2162
+0 Kenkeni Sw #2163
+0 Kenkeni Close #2164
+0 Kenkeni Open #2165
+0 Sangban Sw #2166
+0 Sangban Close #2167
+0 Sangban Open #2168
+0 Dundun Bell Sw #2169
+0 Dundun Bell Close #2170
+0 Dundun Bell Open #2171
+0 Ainote 1 #2172
+0 Ainote 2 #2173
+0 Chanchiki Chan #2174
+0 Chanchiki Ki #2175
+0 Atarigane Con #2176
+0 Atarigane Chi #2177
+0 Wa Taiko #2178
+0 Oo Taiko1 Don #2179
+0 Oo Taiko1 Ka #2180
+0 Oo Taiko2 Don Soft #2181
+0 Oo Taiko2 Don Hard #2182
+0 Oo Taiko2 Zu #2183
+0 Oo Taiko2 Ka #2184
+0 Yagura Taiko1 Don #2185
+0 Yagura Taiko1 Zu #2186
+0 Yagura Taiko1 Ka #2187
+0 Yagura Taiko2 Don #2188
+0 Yagura Taiko2 Zu #2189
+0 Yagura Taiko2 Ka #2190
+0 Shime Taiko1 Ten #2191
+0 Shime Taiko1 Tsu #2192
+0 Shime Taiko1 Ku #2193
+0 Shime Taiko2 Ten #2194
+0 Shime Taiko2 Tsu #2195
+0 Shime Taiko2 Ku #2196
+0 Tsuzumi Pon #2197
+0 Tsuzumi Pu #2198
+0 Tsuzumi Chi #2199
+0 Tsuzumi Ta #2200
+0 Oo Kawa Chon #2201
+0 Oo Kawa Tsu #2202
+0 Oo Kawa Ton #2203
+0 Twaisat1 #2228
+0 AsmaDavulSideBdy 1-2 #2232
+0 AsmaDavulSideBody 1 #2233
+0 AsmaDavulSideBody 2 #2234
+0 AsmaDavul L Side 1-2 #2235
+0 AsmaDavul L Side 1 #2236
+0 AsmaDavul L Side 2 #2237
+0 AsmaDavul Both Sides #2238
+0 AsmaDavul R Side 1-2 #2239
+0 AsmaDavul R Side 1 #2240
+0 AsmaDavul R Side 2 #2241
+0 Koltuk Davul Dum 1-2 #2242
+0 Koltuk Davul Dum 1 #2243
+0 Koltuk Davul Dum 2 #2244
+0 KoltukDavulTekeOp1-3 #2245
+0 KoltukDavulTekeOp 1 #2246
+0 KoltukDavulTekeOp 2 #2247
+0 KoltukDavulTekeOp 3 #2248
+0 KoltukDavulTekOp 1-3 #2249
+0 KoltukDavulTekOp 1 #2250
+0 KoltukDavulTekOp 2 #2251
+0 KoltukDavulTekOp 3 #2252
+0 KoltukDavulOpenFlam #2253
+0 Bendir Dum 1-2 #2254
+0 Bendir Dum 1 #2255
+0 Bendir Dum 2 #2256
+0 Bendir Tek 1-3 #2257
+0 Bendir Tek 1 #2258
+0 Bendir Tek 2 #2259
+0 Bendir Tek 3 #2260
+0 Bendir Teke 1-3 #2261
+0 Bendir Teke 1 #2262
+0 Bendir Teke 2 #2263
+0 Bendir Teke 3 #2264
+0 Bendir Teke OpenFlam #2265
+0 Bendir Slap 1-2 #2266
+0 Bendir Slap 1 #2267
+0 Bendir Slap 2 #2268
+0 Bendir Tek Dead 1-2 #2269
+0 Bendir Tek Dead 1 #2270
+0 Bendir Tek Dead 2 #2271
+0 Bendir Teke Dead 1-2 #2272
+0 Bendir Teke Dead 1 #2273
+0 Bendir Teke Dead 2 #2274
+0 Sagat R Open #2275
+0 Sagat R Close 1-2 #2276
+0 Sagat R Close 1 #2277
+0 Sagat R Close 2 #2278
+0 Sagat L Open #2279
+0 Sagat L Close 1-2 #2280
+0 Sagat L Close 1 #2281
+0 Sagat L Close 2 #2282
+0 Riq Dum Mute #2283
+0 Riq Dum Open 1-2 #2284
+0 Riq Dum Open 1 #2285
+0 Riq Dum Open 2 #2286
+0 Riq Tek Open 1-2 #2287
+0 Riq Tek Open 1 #2288
+0 Riq Tek Open 2 #2289
+0 Riq Tek Mute 1-2 #2290
+0 Riq Tek Mute 1 #2291
+0 Riq Tek Mute 2 #2292
+0 Riq Teke Damped 1-2 #2293
+0 Riq Teke Damped 1 #2294
+0 Riq Teke Damped 2 #2295
+0 Riq Teke Flam #2296
+0 RiqTekMuteMed 1-2 #2297
+0 RiqTekMuteMed 1 #2298
+0 RiqTekMuteMed 2 #2299
+0 RiqTekOpenShort 1-2 #2300
+0 RiqTekOpenShort 1 #2301
+0 RiqTekOpenShort 2 #2302
+0 RiqTekeOpenShort 1-2 #2303
+0 RiqTekeOpenShort 1 #2304
+0 RiqTekeOpenShort 2 #2305
+0 Riq Tek Flam #2306
+0 Riq Cymbal 1-2 #2307
+0 Riq Cymbal 1 #2308
+0 Riq Cymbal 2 #2309
+0 Riq Cymbal Mute 1-2 #2310
+0 Riq Cymbal Mute 1 #2311
+0 Riq Cymbal Mute 2 #2312
+0 Riq Full Open #2313
+0 Riq ShakeA 1-2 #2314
+0 Riq ShakeA 1 #2315
+0 Riq ShakeA 2 #2316
+0 Riq ShakeB 1-2 #2317
+0 Riq ShakeB 1 #2318
+0 Riq ShakeB 2 #2319
+0 Riq Tremolo #2320
+0 Hollo Dum 1-2 #2321
+0 Hollo Dum 1 #2322
+0 Hollo Dum 2 #2323
+0 Hollo Slap 1-2 #2324
+0 Hollo Slap 1 #2325
+0 Hollo Slap 2 #2326
+0 Hollo FingerDead 1-2 #2327
+0 Hollo FingerDead 1 #2328
+0 Hollo FingerDead 2 #2329
+0 Tombek Dum 1-2 #2330
+0 Tombek Dum 1 #2331
+0 Tombek Dum 2 #2332
+0 Tombek Slap 1-2 #2333
+0 Tombek Slap 1 #2334
+0 Tombek Slap 2 #2335
+0 Tombek Tek 1-3 #2336
+0 Tombek Tek 1 #2337
+0 Tombek Tek 2 #2338
+0 Tombek Tek 3 #2339
+0 TombekTekeIndFng 1-3 #2340
+0 TombekTekeIndFng 1 #2341
+0 TombekTekeIndFng 2 #2342
+0 TombekTekeIndFng 3 #2343
+0 TombekTekeOthFng 1-3 #2344
+0 TombekTekeOthFng 1 #2345
+0 TombekTekeOthFng 2 #2346
+0 TombekTekeOthFng 3 #2347
+0 Tombek Tek Dead Sw #2348
+0 Tombek Tek Dead #2349
+0 Tombek Tek Flam #2350
+0 Tombek Slap Med 1-2 #2351
+0 Tombek Slap Med 1 #2352
+0 Tombek Slap Med 2 #2353
+0 Tombek Teke 1-3 #2354
+0 Tombek Teke 1 #2355
+0 Tombek Teke 2 #2356
+0 Tombek Teke 3 #2357
+0 Darbuka Dum 1-2 #2358
+0 Darbuka Dum 1 #2359
+0 Darbuka Dum 2 #2360
+0 Darbuka TekA 1-3 #2361
+0 Darbuka TekA 1 #2362
+0 Darbuka TekA 2 #2363
+0 Darbuka TekA 3 #2364
+0 Darbuka TekB 1-3 #2365
+0 Darbuka TekB 1 #2366
+0 Darbuka TekB 2 #2367
+0 Darbuka TekB 3 #2368
+0 DarbTekeIndFingA 1-3 #2369
+0 DarbTekeIndFingA 1 #2370
+0 DarbTekeIndFingA 2 #2371
+0 DarbTekeIndFingA 3 #2372
+0 DarbTekeIndFingB 1-3 #2373
+0 DarbTekeIndFingB 1 #2374
+0 DarbTekeIndFingB 2 #2375
+0 DarbTekeIndFingB 3 #2376
+0 DarbTekeOthFingA 1-3 #2377
+0 DarbTekeOthFingA 1 #2378
+0 DarbTekeOthFingA 2 #2379
+0 DarbTekeOthFingA 3 #2380
+0 DarbTekeOthFingB 1-3 #2381
+0 DarbTekeOthFingB 1 #2382
+0 DarbTekeOthFingB 2 #2383
+0 DarbTekeOthFingB 3 #2384
+0 Darbuka Slap 1-2 #2385
+0 Darbuka Slap 1 #2386
+0 Darbuka Slap 2 #2387
+0 Darbuka SlapMed 1-2 #2388
+0 Darbuka SlapMed 1 #2389
+0 Darbuka SlapMed 2 #2390
+0 Darbuka TekeOpenFlam #2391
+0 Darbuka RollOpen #2392
+0 Darbuka TekeDampFlam #2393
+0 Darbuka Roll Close #2394
+0 Darbuka TekDead 1-3 #2395
+0 Darbuka TekDead 1 #2396
+0 Darbuka TekDead 2 #2397
+0 Darbuka TekDead 3 #2398
+0 Darbuka TekDampd 1-3 #2399
+0 Darbuka TekDamped 1 #2400
+0 Darbuka TekDamped 2 #2401
+0 Darbuka TekDamped 3 #2402
+0 Darbuka TekeOpen 1-3 #2403
+0 Darbuka TekeOpen 1 #2404
+0 Darbuka TekeOpen 2 #2405
+0 Darbuka TekeOpen 3 #2406
+0 Kasik 1-2 #2407
+0 Kasik 1 #2408
+0 Kasik 2 #2409
+0 Kasik Flam Dead #2410
+0 Kasik Flam #2411
+0 Bonges Dum 1-2 #2412
+0 Bonges Dum 1 #2413
+0 Bonges Dum 2 #2414
+0 Bonges Tek 1-2 #2415
+0 Bonges Tek 1 #2416
+0 Bonges Tek 2 #2417
+0 Bonges Slap #2418
+0 Bonges Tek Flam #2419
+0 Bonges Tek Roll #2420
+0 Bonges Flam #2421
+0 Bonges Flam Hi #2422
+0 Claves T8 #2439
+0 HipHop Clap1 #2442
+0 HipHop Clap2 #2443
+0 HipHop Clap3 #2444
+0 HipHop Clap4 #2445
+0 HipHop Clap5 #2446
+0 HipHop Clap6 #2447
+0 HipHop Clap7 #2448
+0 HipHop Clap8 #2449
+0 HipHop Clap9 #2450
+0 HipHop Clap10 #2451
+0 HipHop Clap11 #2452
+0 HipHop Clap12 #2453
+0 HipHop Clap13 #2454
+0 HipHop Clap14 #2455
+0 HipHop Flex1 #2456
+0 HipHop Flex2 #2457
+0 Bd Maple Close 1-2St #2564
+0 Bd Maple Close 1-2 L #2565
+0 Bd Maple Close 1-2 R #2566
+0 Bd Maple Close 1 St #2567
+0 Bd Maple Close 1 L #2568
+0 Bd Maple Close 1 R #2569
+0 Bd Maple Close 2 St #2570
+0 Bd Maple Close 2 L #2571
+0 Bd Maple Close 2 R #2572
+0 Bd Maple Open 1-2 St #2573
+0 Bd Maple Open 1-2 L #2574
+0 Bd Maple Open 1-2 R #2575
+0 Bd Maple Open 1 St #2576
+0 Bd Maple Open 1 L #2577
+0 Bd Maple Open 1 R #2578
+0 Bd Maple Open 2 St #2579
+0 Bd Maple Open 2 L #2580
+0 Bd Maple Open 2 R #2581
+0 Bd Oak Open 1-2 St #2582
+0 Bd Oak Open 1-2 L #2583
+0 Bd Oak Open 1-2 R #2584
+0 Bd Oak Open 1 St #2585
+0 Bd Oak Open 1 L #2586
+0 Bd Oak Open 1 R #2587
+0 Bd Oak Open 2 St #2588
+0 Bd Oak Open 2 L #2589
+0 Bd Oak Open 2 R #2590
+0 Bd Oak Close 1-2 St #2591
+0 Bd Oak Close 1-2 L #2592
+0 Bd Oak Close 1-2 R #2593
+0 Bd Oak Close 1 St #2594
+0 Bd Oak Close 1 L #2595
+0 Bd Oak Close 1 R #2596
+0 Bd Oak Close 2 St #2597
+0 Bd Oak Close 2 L #2598
+0 Bd Oak Close 2 R #2599
+0 Bd NJz Closed 1-2 St #2600
+0 Bd NJz Closed 1-2 L #2601
+0 Bd NJz Closed 1-2 R #2602
+0 Bd NJz Closed 1 St #2603
+0 Bd NJz Closed 1 L #2604
+0 Bd NJz Closed 1 R #2605
+0 Bd NJz Closed 2 St #2606
+0 Bd NJz Closed 2 L #2607
+0 Bd NJz Closed 2 R #2608
+0 Bd NJz Open 1-2 St #2609
+0 Bd NJz Open 1-2 L #2610
+0 Bd NJz Open 1-2 R #2611
+0 Bd NJz Open 1 St #2612
+0 Bd NJz Open 1 L #2613
+0 Bd NJz Open 1 R #2614
+0 Bd NJz Open 2 St #2615
+0 Bd NJz Open 2 L #2616
+0 Bd NJz Open 2 R #2617
+0 Bd GranCasaA Open St #2618
+0 Bd GranCasaA Open L #2619
+0 Bd GranCasaA Open R #2620
+0 Bd GranCasaA Mute St #2621
+0 Bd GranCasaA Mute L #2622
+0 Bd GranCasaA Mute R #2623
+0 Bd GranCasaB 1-3 St #2624
+0 Bd GranCasaB 1-3 L #2625
+0 Bd GranCasaB 1-3 R #2626
+0 Bd GranCasaB 1 St #2627
+0 Bd GranCasaB 1 L #2628
+0 Bd GranCasaB 1 R #2629
+0 Bd GranCasaB 2 St #2630
+0 Bd GranCasaB 2 L #2631
+0 Bd GranCasaB 2 R #2632
+0 Bd GranCasaB 3 St #2633
+0 Bd GranCasaB 3 L #2634
+0 Bd GranCasaB 3 R #2635
+0 Bd GranCasaB Hoop St #2636
+0 Bd GranCasaB Hoop L #2637
+0 Bd GranCasaB Hoop R #2638
+0 Bd GranCasaB Mfl St #2639
+0 Bd GranCasaB Mfl L #2640
+0 Bd GranCasaB Mfl R #2641
+0 Bd RX11 #2656
+0 Bd HipHop11 #2715
+0 Bd HipHop12 #2716
+0 Bd HipHop13 #2717
+0 Sd Rock Mute1 L #2934
+0 Sd Oak 1-4 St #3044
+0 Sd Oak 1-4 L #3045
+0 Sd Oak 1-4 R #3046
+0 Sd Oak 1-OpRm St #3047
+0 Sd Oak 1-OpRm L #3048
+0 Sd Oak 1-OpRm R #3049
+0 Sd Oak 1 St #3050
+0 Sd Oak 1 L #3051
+0 Sd Oak 1 R #3052
+0 Sd Oak 2 St #3053
+0 Sd Oak 2 L #3054
+0 Sd Oak 2 R #3055
+0 Sd Oak 3 St #3056
+0 Sd Oak 3 L #3057
+0 Sd Oak 3 R #3058
+0 Sd Oak 4 St #3059
+0 Sd Oak 4 L #3060
+0 Sd Oak 4 R #3061
+0 Sd Oak OpRm 1-2 St #3062
+0 Sd Oak OpRm 1-2 L #3063
+0 Sd Oak OpRm 1-2 R #3064
+0 Sd Oak OpRm 1 St #3065
+0 Sd Oak OpRm 1 L #3066
+0 Sd Oak OpRm 1 R #3067
+0 Sd Oak OpRm 2 St #3068
+0 Sd Oak OpRm 2 L #3069
+0 Sd Oak OpRm 2 R #3070
+0 Sd Oak ClRm St #3071
+0 Sd Oak ClRm L #3072
+0 Sd Oak ClRm R #3073
+0 Sd Beech 1-4 St #3074
+0 Sd Beech 1-4 L #3075
+0 Sd Beech 1-4 R #3076
+0 Sd Beech 1-OpRm St #3077
+0 Sd Beech 1-OpRm L #3078
+0 Sd Beech 1-OpRm R #3079
+0 Sd Beech 1 St #3080
+0 Sd Beech 1 L #3081
+0 Sd Beech 1 R #3082
+0 Sd Beech 2 St #3083
+0 Sd Beech 2 L #3084
+0 Sd Beech 2 R #3085
+0 Sd Beech 3 St #3086
+0 Sd Beech 3 L #3087
+0 Sd Beech 3 R #3088
+0 Sd Beech 4 St #3089
+0 Sd Beech 4 L #3090
+0 Sd Beech 4 R #3091
+0 Sd Beech OpRm 1-2 St #3092
+0 Sd Beech OpRm 1-2 L #3093
+0 Sd Beech OpRm 1-2 R #3094
+0 Sd Beech OpRm 1 St #3095
+0 Sd Beech OpRm 1 L #3096
+0 Sd Beech OpRm 1 R #3097
+0 Sd Beech OpRm 2 St #3098
+0 Sd Beech OpRm 2 L #3099
+0 Sd Beech OpRm 2 R #3100
+0 Sd Beech ClRm St #3101
+0 Sd Beech ClRm L #3102
+0 Sd Beech ClRm R #3103
+0 Sd Metal 1-4 St #3104
+0 Sd Metal 1-4 L #3105
+0 Sd Metal 1-4 R #3106
+0 Sd Metal 1-OpRm St #3107
+0 Sd Metal 1-OpRm L #3108
+0 Sd Metal 1-OpRm R #3109
+0 Sd Metal 1 St #3110
+0 Sd Metal 1 L #3111
+0 Sd Metal 1 R #3112
+0 Sd Metal 2 St #3113
+0 Sd Metal 2 L #3114
+0 Sd Metal 2 R #3115
+0 Sd Metal 3 St #3116
+0 Sd Metal 3 L #3117
+0 Sd Metal 3 R #3118
+0 Sd Metal 4 St #3119
+0 Sd Metal 4 L #3120
+0 Sd Metal 4 R #3121
+0 Sd Metal OpRm 1-2 St #3122
+0 Sd Metal OpRm 1-2 L #3123
+0 Sd Metal OpRm 1-2 R #3124
+0 Sd Metal OpRm 1 St #3125
+0 Sd Metal OpRm 1 L #3126
+0 Sd Metal OpRm 1 R #3127
+0 Sd Metal OpRm 2 St #3128
+0 Sd Metal OpRm 2 L #3129
+0 Sd Metal OpRm 2 R #3130
+0 Sd Metal ClRm St #3131
+0 Sd Metal ClRm L #3132
+0 Sd Metal ClRm R #3133
+0 Sd Metal SnRoll St #3134
+0 Sd Metal SnRoll L #3135
+0 Sd Metal SnRoll R #3136
+0 Sd NJz 1-4 St #3137
+0 Sd NJz 1-4 L #3138
+0 Sd NJz 1-4 R #3139
+0 Sd NJz 1-OpRm St #3140
+0 Sd NJz 1-OpRm L #3141
+0 Sd NJz 1-OpRm R #3142
+0 Sd NJz 1 St #3143
+0 Sd NJz 1 L #3144
+0 Sd NJz 1 R #3145
+0 Sd NJz 2 St #3146
+0 Sd NJz 2 L #3147
+0 Sd NJz 2 R #3148
+0 Sd NJz 3 St #3149
+0 Sd NJz 3 L #3150
+0 Sd NJz 3 R #3151
+0 Sd NJz 4 St #3152
+0 Sd NJz 4 L #3153
+0 Sd NJz 4 R #3154
+0 Sd NJz OpRm 1-2 St #3155
+0 Sd NJz OpRm 1-2 L #3156
+0 Sd NJz OpRm 1-2 R #3157
+0 Sd NJz OpRm 1 St #3158
+0 Sd NJz OpRm 1 L #3159
+0 Sd NJz OpRm 1 R #3160
+0 Sd NJz OpRm 2 St #3161
+0 Sd NJz OpRm 2 L #3162
+0 Sd NJz OpRm 2 R #3163
+0 Sd NJz ClRm St #3164
+0 Sd NJz ClRm L #3165
+0 Sd NJz ClRm R #3166
+0 Sd OrchA 1-2 St #3223
+0 Sd OrchA 1 St #3224
+0 Sd OrchA 2 St #3225
+0 Sd OrchA 1-2 L #3226
+0 Sd OrchA 1-2 R #3227
+0 Sd OrchA 1 L #3228
+0 Sd OrchA 2 L #3229
+0 Sd OrchA 1 R #3230
+0 Sd OrchA 2 R #3231
+0 Sd OrchB 1-2 St #3232
+0 Sd OrchB 1 St #3233
+0 Sd OrchB 2 St #3234
+0 Sd OrchB 1-2 L #3235
+0 Sd OrchB 1-2 R #3236
+0 Sd OrchB 1 L #3237
+0 Sd OrchB 2 L #3238
+0 Sd OrchB 1 R #3239
+0 Sd OrchB 2 R #3240
+0 Sd OrchC 1-4 St #3241
+0 Sd OrchC 1-4 L #3242
+0 Sd OrchC 1-4 R #3243
+0 Sd OrchC 1 St #3244
+0 Sd OrchC 1 L #3245
+0 Sd OrchC 1 R #3246
+0 Sd OrchC 2 St #3247
+0 Sd OrchC 2 L #3248
+0 Sd OrchC 2 R #3249
+0 Sd OrchC 3 St #3250
+0 Sd OrchC 3 L #3251
+0 Sd OrchC 3 R #3252
+0 Sd OrchC 4 St #3253
+0 Sd OrchC 4 L #3254
+0 Sd OrchC 4 R #3255
+0 Sd Field 1-4 St #3259
+0 Sd Field 1-4 L #3260
+0 Sd Field 1-4 R #3261
+0 Sd Field 1 St #3262
+0 Sd Field 1 L #3263
+0 Sd Field 1 R #3264
+0 Sd Field 2 St #3265
+0 Sd Field 2 L #3266
+0 Sd Field 2 R #3267
+0 Sd Field 3 St #3268
+0 Sd Field 3 L #3269
+0 Sd Field 3 R #3270
+0 Sd Field 4 St #3271
+0 Sd Field 4 L #3272
+0 Sd Field 4 R #3273
+0 Sd RX11 A #3299
+0 Sd RX11 B #3300
+0 Sd HipHop12 #3359
+0 Sd HipHop13 #3360
+0 Sd HipHop14 #3361
+0 Sd HipHop15 #3362
+0 Sd HipHop16 #3363
+0 Sd HipHop17 #3364
+0 Sd HipHop18 #3365
+0 HH Dark Closed 1-4St #3519
+0 HH Dark Closed 1-4 L #3520
+0 HH Dark Closed 1-4 R #3521
+0 HH Dark Closed 1-4RL #3522
+0 HH Dark Closed 1 St #3523
+0 HH Dark Closed 1 L #3524
+0 HH Dark Closed 1 R #3525
+0 HH Dark Closed 1 RL #3526
+0 HH Dark Closed 2 St #3527
+0 HH Dark Closed 2 L #3528
+0 HH Dark Closed 2 R #3529
+0 HH Dark Closed 2 RL #3530
+0 HH Dark Closed 3 St #3531
+0 HH Dark Closed 3 L #3532
+0 HH Dark Closed 3 R #3533
+0 HH Dark Closed 3 RL #3534
+0 HH Dark Closed 4 St #3535
+0 HH Dark Closed 4 L #3536
+0 HH Dark Closed 4 R #3537
+0 HH Dark Closed 4 RL #3538
+0 HH Dark Pedal 1-2 St #3539
+0 HH Dark Pedal 1-2 L #3540
+0 HH Dark Pedal 1-2 R #3541
+0 HH Dark Pedal 1-2 RL #3542
+0 HH Dark Pedal 1 St #3543
+0 HH Dark Pedal 1 L #3544
+0 HH Dark Pedal 1 R #3545
+0 HH Dark Pedal 1 RL #3546
+0 HH Dark Pedal 2 St #3547
+0 HH Dark Pedal 2 L #3548
+0 HH Dark Pedal 2 R #3549
+0 HH Dark Pedal 2 RL #3550
+0 HH Dark Open 1-2 St #3551
+0 HH Dark Open 1-2 L #3552
+0 HH Dark Open 1-2 R #3553
+0 HH Dark Open 1-2 RL #3554
+0 HH Dark Open 1 St #3555
+0 HH Dark Open 1 L #3556
+0 HH Dark Open 1 R #3557
+0 HH Dark Open 1 RL #3558
+0 HH Dark Open 2 St #3559
+0 HH Dark Open 2 L #3560
+0 HH Dark Open 2 R #3561
+0 HH Dark Open 2 RL #3562
+0 HH NJz Closed 1-4 St #3563
+0 HH NJz Closed 1-4 L #3564
+0 HH NJz Closed 1-4 R #3565
+0 HH NJz Closed 1-4 RL #3566
+0 HH NJz Closed 1 St #3567
+0 HH NJz Closed 1 L #3568
+0 HH NJz Closed 1 R #3569
+0 HH NJz Closed 1 RL #3570
+0 HH NJz Closed 2 St #3571
+0 HH NJz Closed 2 L #3572
+0 HH NJz Closed 2 R #3573
+0 HH NJz Closed 2 RL #3574
+0 HH NJz Closed 3 St #3575
+0 HH NJz Closed 3 L #3576
+0 HH NJz Closed 3 R #3577
+0 HH NJz Closed 3 RL #3578
+0 HH NJz Closed 4 St #3579
+0 HH NJz Closed 4 L #3580
+0 HH NJz Closed 4 R #3581
+0 HH NJz Closed 4 RL #3582
+0 HH NJz Pedal 1-2 St #3583
+0 HH NJz Pedal 1-2 L #3584
+0 HH NJz Pedal 1-2 R #3585
+0 HH NJz Pedal 1-2 RL #3586
+0 HH NJz Pedal 1 St #3587
+0 HH NJz Pedal 1 L #3588
+0 HH NJz Pedal 1 R #3589
+0 HH NJz Pedal 1 RL #3590
+0 HH NJz Pedal 2 St #3591
+0 HH NJz Pedal 2 L #3592
+0 HH NJz Pedal 2 R #3593
+0 HH NJz Pedal 2 RL #3594
+0 HH NJz Open 1-2 St #3595
+0 HH NJz Open 1-2 L #3596
+0 HH NJz Open 1-2 R #3597
+0 HH NJz Open 1-2 RL #3598
+0 HH NJz Open 1 St #3599
+0 HH NJz Open 1 L #3600
+0 HH NJz Open 1 R #3601
+0 HH NJz Open 1 RL #3602
+0 HH NJz Open 2 St #3603
+0 HH NJz Open 2 L #3604
+0 HH NJz Open 2 R #3605
+0 HH NJz Open 2 RL #3606
+0 HH Closed RX11 #3617
+0 HH Open RX11 #3618
+0 Tom Maple Hi 1-2 St #3715
+0 Tom Maple Hi 1-2 L #3716
+0 Tom Maple Hi 1-2 R #3717
+0 Tom Maple Hi 1-2 RL #3718
+0 Tom Maple Hi 1 St #3719
+0 Tom Maple Hi 1 L #3720
+0 Tom Maple Hi 1 R #3721
+0 Tom Maple Hi 1 RL #3722
+0 Tom Maple Hi 2 St #3723
+0 Tom Maple Hi 2 L #3724
+0 Tom Maple Hi 2 R #3725
+0 Tom Maple Hi 2 RL #3726
+0 Tom Maple Mid 1-2 St #3727
+0 Tom Maple Mid 1-2 L #3728
+0 Tom Maple Mid 1-2 R #3729
+0 Tom Maple Mid 1-2 RL #3730
+0 Tom Maple Mid 1 St #3731
+0 Tom Maple Mid 1 L #3732
+0 Tom Maple Mid 1 R #3733
+0 Tom Maple Mid 1 RL #3734
+0 Tom Maple Mid 2 St #3735
+0 Tom Maple Mid 2 L #3736
+0 Tom Maple Mid 2 R #3737
+0 Tom Maple Mid 2 RL #3738
+0 Tom Maple Flr 1-2 St #3739
+0 Tom Maple Flr 1-2 L #3740
+0 Tom Maple Flr 1-2 R #3741
+0 Tom Maple Flr 1-2 RL #3742
+0 Tom Maple Flr 1 St #3743
+0 Tom Maple Flr 1 L #3744
+0 Tom Maple Flr 1 R #3745
+0 Tom Maple Flr 1 RL #3746
+0 Tom Maple Flr 2 St #3747
+0 Tom Maple Flr 2 L #3748
+0 Tom Maple Flr 2 R #3749
+0 Tom Maple Flr 2 RL #3750
+0 Tom Oak Hi 1-2 St #3751
+0 Tom Oak Hi 1-2 L #3752
+0 Tom Oak Hi 1-2 R #3753
+0 Tom Oak Hi 1-2 RL #3754
+0 Tom Oak Hi 1 St #3755
+0 Tom Oak Hi 1 L #3756
+0 Tom Oak Hi 1 R #3757
+0 Tom Oak Hi 1 RL #3758
+0 Tom Oak Hi 2 St #3759
+0 Tom Oak Hi 2 L #3760
+0 Tom Oak Hi 2 R #3761
+0 Tom Oak Hi 2 RL #3762
+0 Tom Oak Mid 1-2 St #3763
+0 Tom Oak Mid 1-2 L #3764
+0 Tom Oak Mid 1-2 R #3765
+0 Tom Oak Mid 1-2 RL #3766
+0 Tom Oak Mid 1 St #3767
+0 Tom Oak Mid 1 L #3768
+0 Tom Oak Mid 1 R #3769
+0 Tom Oak Mid 1 RL #3770
+0 Tom Oak Mid 2 St #3771
+0 Tom Oak Mid 2 L #3772
+0 Tom Oak Mid 2 R #3773
+0 Tom Oak Mid 2 RL #3774
+0 Tom Oak Floor 1-2 St #3775
+0 Tom Oak Floor 1-2 L #3776
+0 Tom Oak Floor 1-2 R #3777
+0 Tom Oak Floor 1-2 RL #3778
+0 Tom Oak Floor 1 St #3779
+0 Tom Oak Floor 1 L #3780
+0 Tom Oak Floor 1 R #3781
+0 Tom Oak Floor 1 RL #3782
+0 Tom Oak Floor 2 St #3783
+0 Tom Oak Floor 2 L #3784
+0 Tom Oak Floor 2 R #3785
+0 Tom Oak Floor 2 RL #3786
+0 Tom NJz Mid 1-2 St #3787
+0 Tom NJz Mid 1-2 L #3788
+0 Tom NJz Mid 1-2 R #3789
+0 Tom NJz Mid 1-2 RL #3790
+0 Tom NJz Mid 1 St #3791
+0 Tom NJz Mid 1 L #3792
+0 Tom NJz Mid 1 R #3793
+0 Tom NJz Mid 1 RL #3794
+0 Tom NJz Mid 2 St #3795
+0 Tom NJz Mid 2 L #3796
+0 Tom NJz Mid 2 R #3797
+0 Tom NJz Mid 2 RL #3798
+0 Tom NJz Low 1-2 St #3799
+0 Tom NJz Low 1-2 L #3800
+0 Tom NJz Low 1-2 R #3801
+0 Tom NJz Low 1-2 RL #3802
+0 Tom NJz Low 1 St #3803
+0 Tom NJz Low 1 L #3804
+0 Tom NJz Low 1 R #3805
+0 Tom NJz Low 1 RL #3806
+0 Tom NJz Low 2 St #3807
+0 Tom NJz Low 2 L #3808
+0 Tom NJz Low 2 R #3809
+0 Tom NJz Low 2 RL #3810
+0 Tom NJz Floor 1-2 St #3811
+0 Tom NJz Floor 1-2 L #3812
+0 Tom NJz Floor 1-2 R #3813
+0 Tom NJz Floor 1-2 RL #3814
+0 Tom NJz Floor 1 St #3815
+0 Tom NJz Floor 1 L #3816
+0 Tom NJz Floor 1 R #3817
+0 Tom NJz Floor 1 RL #3818
+0 Tom NJz Floor 2 St #3819
+0 Tom NJz Floor 2 L #3820
+0 Tom NJz Floor 2 R #3821
+0 Tom NJz Floor 2 RL #3822
+0 Tom Brush Floor St #3835
+0 Rotary Tom Hi 1-2 #3843
+0 Rotary Tom Hi 1 #3844
+0 Rotary Tom Hi 2 #3845
+0 Rotary Tom Mid 1-2 #3846
+0 Rotary Tom Mid 1 #3847
+0 Rotary Tom Mid 2 #3848
+0 Rotary Tom Lo 1-2 #3849
+0 Rotary Tom Lo 1 #3850
+0 Rotary Tom Lo 2 #3851
+0 Tom RX11 #3862
+0 Crash Brite St #3873
+0 Crash Brite L #3874
+0 Crash Brite R #3875
+0 Crash Brite RL #3876
+0 Crash Dark St #3877
+0 Crash Dark L #3878
+0 Crash Dark R #3879
+0 Crash Dark RL #3880
+0 Crash NJzA St #3881
+0 Crash NJzA L #3882
+0 Crash NJzA R #3883
+0 Crash NJzA RL #3884
+0 Crash NJzB St #3885
+0 Crash NJzB L #3886
+0 Crash NJzB R #3887
+0 Crash NJzB RL #3888
+0 Ride Brite St #3915
+0 Ride Brite L #3916
+0 Ride Brite R #3917
+0 Ride Brite RL #3918
+0 Ride Brite Cup St #3919
+0 Ride Brite Cup L #3920
+0 Ride Brite Cup R #3921
+0 Ride Brite Cup RL #3922
+0 Ride Warm St #3923
+0 Ride Warm L #3924
+0 Ride Warm R #3925
+0 Ride Warm RL #3926
+0 Ride NJz St #3927
+0 Ride NJz L #3928
+0 Ride NJz R #3929
+0 Ride NJz RL #3930
+0 Ride NJz Cup St #3931
+0 Ride NJz Cup L #3932
+0 Ride NJz Cup R #3933
+0 Ride NJz Cup RL #3934
+0 China1 St #3954
+0 China1 L #3955
+0 China1 R #3956
+0 China1 RL #3957
+0 China3 St #3959
+0 China3 L #3960
+0 China3 R #3961
+0 China3 RL #3962
+0 Splash1 St #3963
+0 Splash1 L #3964
+0 Splash1 R #3965
+0 Splash1 RL #3966
+0 Splash2 St #3967
+0 Splash2 L #3968
+0 Splash2 R #3969
+0 Splash2 RL #3970
+0 Crash RX11 #3974
+0 Ride RX11 #3976

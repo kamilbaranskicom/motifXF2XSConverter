@@ -1,0 +1,2671 @@
+# <no> <name> <category>
+1 CF3 Stretch Sw St Ap
+2 CF3 Stretch Sw Mn Ap
+3 CF3 Stretch Soft St Ap
+4 CF3 Stretch Soft Mn Ap
+5 CF3 Stretch Soft St+ Ap
+6 CF3 Stretch Soft Mn+ Ap
+7 CF3 Stretch Soft St- Ap
+8 CF3 Stretch Soft Mn- Ap
+9 CF3 Stretch Med St Ap
+10 CF3 Stretch Med Mn Ap
+11 CF3 Stretch Med St+ Ap
+12 CF3 Stretch Med Mn+ Ap
+13 CF3 Stretch Med St- Ap
+14 CF3 Stretch Med Mn- Ap
+15 CF3 Stretch Hard St Ap
+16 CF3 Stretch Hard Mn Ap
+17 CF3 Stretch Hard St+ Ap
+18 CF3 Stretch Hard Mn+ Ap
+19 CF3 Stretch Hard St- Ap
+20 CF3 Stretch Hard Mn- Ap
+21 CF3 Key Off St Ap
+22 CF3 Key Off L Ap
+23 CF3 Key Off R Ap
+24 CF3 Flat Sw St Ap
+25 CF3 Flat Sw Mn Ap
+26 CF3 Flat Soft St Ap
+27 CF3 Flat Soft Mn Ap
+28 CF3 Flat Soft St+ Ap
+29 CF3 Flat Soft Mn+ Ap
+30 CF3 Flat Soft St- Ap
+31 CF3 Flat Soft Mn- Ap
+32 CF3 Flat Med St Ap
+33 CF3 Flat Med Mn Ap
+34 CF3 Flat Med St+ Ap
+35 CF3 Flat Med Mn+ Ap
+36 CF3 Flat Med St- Ap
+37 CF3 Flat Med Mn- Ap
+38 CF3 Flat Hard St Ap
+39 CF3 Flat Hard Mn Ap
+40 CF3 Flat Hard St+ Ap
+41 CF3 Flat Hard Mn+ Ap
+42 CF3 Flat Hard St- Ap
+43 CF3 Flat Hard Mn- Ap
+44 Brite Piano Ap
+45 Brite Piano- Ap
+46 CP70 Ap
+47 CP70+ Ap
+48 CP70- Ap
+49 EP1 Sw Ep
+50 EP1 Soft Ep
+51 EP1 Soft+ Ep
+52 EP1 Soft- Ep
+53 EP1 Med Ep
+54 EP1 Med+ Ep
+55 EP1 Med- Ep
+56 EP1 Hard Ep
+57 EP1 Hard+ Ep
+58 EP1 Hard- Ep
+59 EP2 Sw Ep
+60 EP2 Soft1 Ep
+61 EP2 Soft1+ Ep
+62 EP2 Soft1- Ep
+63 EP2 Soft2 Ep
+64 EP2 Soft2+ Ep
+65 EP2 Soft2- Ep
+66 EP2 Hard1 Ep
+67 EP2 Hard1+ Ep
+68 EP2 Hard1- Ep
+69 EP2 Hard2 Ep
+70 EP2 Hard2+ Ep
+71 EP2 Hard2- Ep
+72 EP3 Sw Ep
+73 EP3 Soft1 Ep
+74 EP3 Soft1+ Ep
+75 EP3 Soft1- Ep
+76 EP3 Soft2 Ep
+77 EP3 Soft2+ Ep
+78 EP3 Soft2- Ep
+79 EP3 Hard1 Ep
+80 EP3 Hard1+ Ep
+81 EP3 Hard1- Ep
+82 EP3 Hard2 Ep
+83 EP3 Hard2+ Ep
+84 EP3 Hard2- Ep
+85 EP Key Off Ep
+86 Wurli EP Soft Ep
+87 Wurli EP Soft+ Ep
+88 Wurli EP Soft- Ep
+89 Wurli EP Med Ep
+90 Wurli EP Med+ Ep
+91 Wurli EP Med- Ep
+92 Wurli EP Hard Ep
+93 Wurli EP Hard+ Ep
+94 Wurli EP Hard- Ep
+95 Wurli EP Key Off Ep
+96 DX1 Ep
+97 DX2 Ep
+98 DX3 Ep
+99 DX4 Ep
+100 DX Body Soft Ep
+101 DX Body Med Ep
+102 DX Body Hard Ep
+103 DX Attack1 Ep
+104 DX Attack2 Ep
+105 DX Attack3 Ep
+106 DX Attack4 Ep
+107 DX Attack5 Ep
+108 Clav1 Kb
+109 Clav1+ Kb
+110 Clav1- Kb
+111 Clav2 Kb
+112 Clav2+ Kb
+113 Clav2- Kb
+114 Clav3 Kb
+115 Clav3+ Kb
+116 Clav3- Kb
+117 Clav Key Off Kb
+118 Harpsichord Kb
+119 Celesta Kb
+120 Vibraphone Cp
+121 Marimba Cp
+122 Glockenspiel Cp
+123 Xylophone Cp
+124 Tubular Bell Cp
+125 Bell Cp
+126 Bell St1 Cp
+127 Bell St2 Cp
+128 Brass Bell Cp
+129 Small Bell Cp
+130 Finger Cymbal Cp
+131 Hand Bell Cp
+132 Hibashi Cp
+133 Stone Hard Cp
+134 Stone Soft Cp
+135 Wood Bell1 Cp
+136 Wood Bell2 Cp
+137 Timpani Sw St Cp
+138 Timpani Soft St Cp
+139 Timpani Hard St Cp
+140 Timpani Sw L Cp
+141 Timpani Soft L Cp
+142 Timpani Hard L Cp
+143 Timpani Sw R Cp
+144 Timpani Soft R Cp
+145 Timpani Hard R Cp
+146 Rock Chorus Vibrato Or
+147 Rock Percussion Or
+148 Rock2 Or
+149 Rock2+ Or
+150 Rock2- Or
+151 Jazz w/Percussion Or
+152 Jazz w/Percussion- Or
+153 Jazz Or
+154 Jazz+ Or
+155 Jazz- Or
+156 Full Draw Or
+157 Full Draw+ Or
+158 Full Draw- Or
+159 Swish Or
+160 Swish- Or
+161 Bow Or
+162 Bow Chorus Vibrato Or
+163 Gospel Or
+164 Soul Or
+165 1st Four Draw Or
+166 Draw 16’ Or
+167 Draw 5 1/3 Or
+168 Draw 8’ Or
+169 Draw 4’ Or
+170 Draw 2 2/3 Or
+171 Draw 2’ Or
+172 Draw 1 3/5 Or
+173 Draw 1 1/3 Or
+174 Draw 1’ Or
+175 Draw 16’ Of Or
+176 Draw 5 1/3 Of Or
+177 Draw 8’ Of Or
+178 Draw 4’ Of Or
+179 Draw 2 2/3 Of Or
+180 Draw 2’ Of Or
+181 Draw 1 3/5 Of Or
+182 Draw 1 1/3 Of Or
+183 Draw 1’ Of Or
+184 Draw 1+3 Or
+185 Draw 1+3+ Or
+186 Draw 1+3- Or
+187 Draw 2+4 Or
+188 Draw 2+4+ Or
+189 Draw 2+4- Or
+190 Draw Even Or
+191 Draw Even+ Or
+192 Draw Even- Or
+193 Draw Odd Or
+194 Draw Odd+ Or
+195 Draw Odd- Or
+196 Percussion Or
+197 Percussion+ Or
+198 Percussion- Or
+199 Tonewheel Key Click Or
+200 Clack 1 Or
+201 Clack 2 Or
+202 Rotor Or
+203 Rotor Whistle Or
+204 Rotor Grit1 Or
+205 Rotor Grit2 Or
+206 Compact Electronic Or
+207 Compact Electronic- Or
+208 Portable Electronic Or
+209 Portable Electronic- Or
+210 Pipe Organ1 St Or
+211 Pipe Organ1 L Or
+212 Pipe Organ1 R Or
+213 Pipe Organ2 Or
+214 Pipe Organ3 St Or
+215 Pipe Organ3 L Or
+216 Pipe Organ3 R Or
+217 Pipe Organ4 Or
+218 Pipe Organ5 Or
+219 Accordion Or
+220 Tango Accordion Or
+221 Nylon Open Soft St Gt
+222 Nylon Open Soft L Gt
+223 Nylon Open Soft R Gt
+224 Nylon Open Med St Gt
+225 Nylon Open Med L Gt
+226 Nylon Open Med R Gt
+227 Nylon Open Hard St Gt
+228 Nylon Open Hard L Gt
+229 Nylon Open Hard R Gt
+230 Nylon Open Sw St Gt
+231 Nylon Open Sw L Gt
+232 Nylon Open Sw R Gt
+233 Nylon Open Sw Kb St Gt
+234 Nylon Open Sw Kb L Gt
+235 Nylon Open Sw Kb R Gt
+236 Nylon Dead Notes St Gt
+237 Nylon Dead Notes L Gt
+238 Nylon Dead Notes R Gt
+239 Nylon Mute St Gt
+240 Nylon Mute L Gt
+241 Nylon Mute R Gt
+242 Nylon Hammer St Gt
+243 Nylon Hammer L Gt
+244 Nylon Hammer R Gt
+245 Nylon Slide St Gt
+246 Nylon Slide L Gt
+247 Nylon Slide R Gt
+248 Nylon Harmonics St Gt
+249 Nylon Harmonics L Gt
+250 Nylon Harmonics R Gt
+251 Nylon FX St Gt
+252 Nylon FX L Gt
+253 Nylon FX R Gt
+254 Steel Open Soft St Gt
+255 Steel Open Soft L Gt
+256 Steel Open Soft R Gt
+257 Steel Open Med St Gt
+258 Steel Open Med L Gt
+259 Steel Open Med R Gt
+260 Steel Open Hard St Gt
+261 Steel Open Hard L Gt
+262 Steel Open Hard R Gt
+263 Steel Open Sw St Gt
+264 Steel Open Sw L Gt
+265 Steel Open Sw R Gt
+266 Steel Open Sw Kb St Gt
+267 Steel Open Sw Kb L Gt
+268 Steel Open Sw Kb R Gt
+269 Steel Hammer On St Gt
+270 Steel Hammer On L Gt
+271 Steel Hammer On R Gt
+272 Steel Slide St Gt
+273 Steel Slide L Gt
+274 Steel Slide R Gt
+275 Steel Harmonics St Gt
+276 Steel Harmonics L Gt
+277 Steel Harmonics R Gt
+278 Steel Mute St Gt
+279 Steel Mute L Gt
+280 Steel Mute R Gt
+281 Steel Dead Notes St Gt
+282 Steel Dead Notes L Gt
+283 Steel Dead Notes R Gt
+284 Steel FX St Gt
+285 Steel FX L Gt
+286 Steel FX R Gt
+287 High Strings Soft St Gt
+288 High Strings Soft L Gt
+289 High Strings Soft R Gt
+290 High Strings Hard St Gt
+291 High Strings Hard L Gt
+292 High Strings Hard R Gt
+293 High Strings FX St Gt
+294 High Strings FX L Gt
+295 High Strings FX R Gt
+296 High Strings FX2 St Gt
+297 Clean Open Med Gt
+298 Clean Open Hard Gt
+299 Clean Open Sw Gt
+300 Clean Open Sw Kb Gt
+301 Clean Hammer On Gt
+302 Clean Slap Gt
+303 Clean Slide Gt
+304 Clean Harmonics Gt
+305 Clean Mute Gt
+306 Clean Dead Gt
+307 Clean FX Gt
+308 60s Clean Open Soft Gt
+309 60s Clean Open Med Gt
+310 60s Clean Open Hard Gt
+311 60s Clean Open Sw Gt
+312 60s Clean Open Sw Kb Gt
+313 60s Clean Open Sw2 Gt
+314 60s Clean Dead Gt
+315 60s Clean Mute Gt
+316 60s Clean Hammer On Gt
+317 60s Clean Slide Gt
+318 60s Clean Harmonics Gt
+319 60s Clean FX Gt
+320 60s Clean Slap Gt
+321 Jazz Guitar Gt
+322 Vintage Amp1 Gt
+323 Vintage Amp2 Gt
+324 Neck Pickup Gt
+325 Distortion Open Gt
+326 Distortion Harmonics Gt
+327 Distortion Mute Gt
+328 Overdrive Open Gt
+329 Overdrive Mute Gt
+330 Distortion FX Gt
+331 Dist/Overdrive FX Gt
+332 Feedback Gt
+333 Power Chord St Gt
+334 Power Chord Mono Gt
+335 Play FX Mix Gt
+336 Power Chord FX St Gt
+337 Power Chord FX Mono Gt
+338 Banjo Gt
+339 Acoustic Med Ba
+340 Acoustic Hard Ba
+341 Acoustic Harmonics Ba
+342 Acoustic Dead Ba
+343 Acoustic FX1 Ba
+344 Acoustic FX2 Ba
+345 Acoustic Med+ Ba
+346 Acoustic Hard+ Ba
+347 Acoustic Med- Ba
+348 Acoustic Hard- Ba
+349 Pick Open Ba
+350 Pick Harmonics Ba
+351 Pick Mute Ba
+352 Pick Dead Ba
+353 Pick Open+ Ba
+354 Pick Mute+ Ba
+355 Pick Open- Ba
+356 Pick Mute- Ba
+357 Finger Med Ba
+358 Finger Hard Ba
+359 Finger Harmonics Ba
+360 Finger Med+ Ba
+361 Finger Hard+ Ba
+362 Finger Med- Ba
+363 Finger Hard- Ba
+364 Finger Dead Ba
+365 P-Bass Rndwound Med Ba
+366 P-Bass Rndwound Hard Ba
+367 P-Bass Rndwound Med+ Ba
+368 P-Bass Rndwound Hrd+ Ba
+369 P-Bass Rndwound Med- Ba
+370 P-Bass Rndwound Hrd- Ba
+371 P-Bass Flatwound Ba
+372 P-Bass Flatwound+ Ba
+373 P-Bass Flatwound- Ba
+374 Thumb/Pull Hard Ba
+375 Thumb Hard Ba
+376 Thumb Harmonics Ba
+377 Thumb Soft Ba
+378 Thumb Dead Ba
+379 Pull Dead Ba
+380 Fretless Ba
+381 Fretless Harmonics Ba
+382 Fretless+ Ba
+383 Fretless- Ba
+384 Fretless Dead Ba
+385 Electric Bass FX Ba
+386 Violin Non-Vib St
+387 Violin Non-Vib+ St
+388 Violin Non-Vib- St
+389 Violin Non-Vib Of St
+390 Violin Non-Vib+ Of St
+391 Violin Non-Vib- Of St
+392 Violin St St
+393 Violin L St
+394 Violin R St
+395 Violin St+ St
+396 Violin L+ St
+397 Violin R+ St
+398 Violin St- St
+399 Violin L- St
+400 Violin R- St
+401 Violin St Of St
+402 Violin L Of St
+403 Violin R Of St
+404 Viola St St
+405 Viola L St
+406 Viola R St
+407 Viola St+ St
+408 Viola L+ St
+409 Viola R+ St
+410 Viola St- St
+411 Viola L- St
+412 Viola R- St
+413 Viola St Of St
+414 Viola L Of St
+415 Viola R Of St
+416 Cello St St
+417 Cello L St
+418 Cello R St
+419 Cello St+ St
+420 Cello L+ St
+421 Cello R+ St
+422 Cello St- St
+423 Cello L- St
+424 Cello R- St
+425 Cello St Of St
+426 Cello L Of St
+427 Cello R Of St
+428 Contrabass St St
+429 Contrabass L St
+430 Contrabass R St
+431 Contrabass St+ St
+432 Contrabass L+ St
+433 Contrabass R+ St
+434 Contrabass St- St
+435 Contrabass L- St
+436 Contrabass R- St
+437 Contrabass St Of St
+438 Contrabass L Of St
+439 Contrabass R Of St
+440 Solo Combi St St
+441 Solo Combi L St
+442 Solo Combi R St
+443 Solo Combi St+ St
+444 Solo Combi L+ St
+445 Solo Combi R+ St
+446 Solo Combi St- St
+447 Solo Combi L- St
+448 Solo Combi R- St
+449 Solo Combi St Of St
+450 Solo Combi L Of St
+451 Solo Combi R Of St
+452 Solo Combi2 St St
+453 Solo Combi2 L St
+454 Solo Combi2 R St
+455 Solo Combi2 St Of St
+456 Solo Combi2 L Of St
+457 Solo Combi2 R Of St
+458 Solo Combi3 St St
+459 Solo Combi3 L St
+460 Solo Combi3 R St
+461 Solo Combi3 St Of St
+462 Solo Combi3 L Of St
+463 Solo Combi3 R Of St
+464 Solo Spiccato Combi St
+465 Solo Spiccato Combi+ St
+466 Solo Spiccato Combi- St
+467 Pizzicato1 St St
+468 Pizzicato1 Mono St
+469 Pizzicato 2 St
+470 Pop Pizzicato St
+471 Large Pizzicato St St
+472 Large Pizzicato L St
+473 Large Pizzicato R St
+474 Large Pizzicato St+ St
+475 Large Pizzicato L+ St
+476 Large Pizzicato R+ St
+477 Large Pizzicato St- St
+478 Large Pizzicato L- St
+479 Large Pizzicato R- St
+480 Ensemble Mix St
+481 Ensemble Mix St St
+482 Ensemble Mix L St
+483 Ensemble Mix R St
+484 Ensemble Mix St Of St
+485 Ensemble Mix L Of St
+486 Ensemble Mix R Of St
+487 Ensemble Mute St St
+488 Ensemble Mute St
+489 Ensemble Mute- St
+490 Ensemble Mute St Of St
+491 Ensemble Mute Of St
+492 Ensemble Mute - Of St
+493 Hard Ensemble St St
+494 Hard Ensemble St+ St
+495 Hard Ensemble St- St
+496 Hard Ensemble L St
+497 Hard Ensemble L+ St
+498 Hard Ensemble L- St
+499 Hard Ensemble R St
+500 Hard Ensemble R+ St
+501 Hard Ensemble R- St
+502 Hard Ensemble St Of St
+503 Hard Ensemble L Of St
+504 Hard Ensemble R Of St
+505 OrchStrgs Soft St St
+506 OrchStrgs Soft St+ St
+507 OrchStrgs Soft St- St
+508 OrchStrgs Soft L St
+509 OrchStrgs Soft L+ St
+510 OrchStrgs Soft L- St
+511 OrchStrgs Soft R St
+512 OrchStrgs Soft R+ St
+513 OrchStrgs Soft R- St
+514 OrchStrgs Soft St Of St
+515 OrchStrgs Soft L Of St
+516 OrchStrgs Soft R Of St
+517 OrchStrgs Med St St
+518 OrchStrgs Med St+ St
+519 OrchStrgs Med St- St
+520 OrchStrgs Med L St
+521 OrchStrgs Med L+ St
+522 OrchStrgs Med L- St
+523 OrchStrgs Med R St
+524 OrchStrgs Med R+ St
+525 OrchStrgs Med R- St
+526 OrchStrgs Med St Of St
+527 OrchStrgs Med L Of St
+528 OrchStrgs Med R Of St
+529 OrchStrgs Hard St St
+530 OrchStrgs Hard St+ St
+531 OrchStrgs Hard St- St
+532 OrchStrgs Hard L St
+533 OrchStrgs Hard L+ St
+534 OrchStrgs Hard L- St
+535 OrchStrgs Hard R St
+536 OrchStrgs Hard R+ St
+537 OrchStrgs Hard R- St
+538 OrchStrgs Hard St Of St
+539 OrchStrgs Hard L Of St
+540 OrchStrgs Hard R Of St
+541 Orchestral Harp St
+542 Brass Sect1 St Br
+543 Brass Sect1 St+ Br
+544 Brass Sect1 St- Br
+545 Brass Sect1 L Br
+546 Brass Sect1 L+ Br
+547 Brass Sect1 L- Br
+548 Brass Sect1 R Br
+549 Brass Sect1 R+ Br
+550 Brass Sect1 R- Br
+551 Brass Sect1 St Of Br
+552 Brass Sect1 St+ Of Br
+553 Brass Sect1 St- Of Br
+554 Brass Sect1 L Of Br
+555 Brass Sect1 L+ Of Br
+556 Brass Sect1 L- Of Br
+557 Brass Sect1 R Of Br
+558 Brass Sect1 R+ Of Br
+559 Brass Sect1 R- Of Br
+560 Brass Sect Fall Br
+561 Brass Sect2 Soft St Br
+562 Brass Sect2 Soft St+ Br
+563 Brass Sect2 Soft St- Br
+564 Brass Sect2 Soft L Br
+565 Brass Sect2 Soft L+ Br
+566 Brass Sect2 Soft L- Br
+567 Brass Sect2 Soft R Br
+568 Brass Sect2 Soft R+ Br
+569 Brass Sect2 Soft R- Br
+570 Brass Sect2 SoftStOf Br
+571 Brass Sect2 Soft LOf Br
+572 Brass Sect2 Soft ROf Br
+573 Brass Sect2 Med St Br
+574 Brass Sect2 Med St+ Br
+575 Brass Sect2 Med St- Br
+576 Brass Sect2 Med L Br
+577 Brass Sect2 Med L+ Br
+578 Brass Sect2 Med L- Br
+579 Brass Sect2 Med R Br
+580 Brass Sect2 Med R+ Br
+581 Brass Sect2 Med R- Br
+582 Brass Sect2 Med StOf Br
+583 Brass Sect2 Med L Of Br
+584 Brass Sect2 Med R Of Br
+585 Brass Sect2 Hard St Br
+586 Brass Sect2 Hard St+ Br
+587 Brass Sect2 Hard St- Br
+588 Brass Sect2 Hard L Br
+589 Brass Sect2 Hard L+ Br
+590 Brass Sect2 Hard L- Br
+591 Brass Sect2 Hard R Br
+592 Brass Sect2 Hard R+ Br
+593 Brass Sect2 Hard R- Br
+594 Brass Sect2 Hrd StOf Br
+595 Brass Sect2 Hrd L Of Br
+596 Brass Sect2 Hrd R Of Br
+597 Trumpet1 Med Br
+598 Trumpet1 Hard Br
+599 Trumpet1 Med Of Br
+600 Trumpet1 Hard Of Br
+601 Trumpet 2 Br
+602 Trumpet 2+ Br
+603 Trumpet 2- Br
+604 Trumpet 2 Of Br
+605 Trumpet Mute Br
+606 Trumpet Mute Of Br
+607 Trombone1 Br
+608 Trombone1- Br
+609 Trombone1 Of Br
+610 Trombone1- Of Br
+611 Trombone2 Br
+612 Trombone2 Of Br
+613 Soft Trombone Br
+614 Soft Trombone Of Br
+615 Soft Flugelhorn Br
+616 Soft Flugelhorn- Br
+617 Soft Flugelhorn Of Br
+618 Soft Flugelhorn- Of Br
+619 Flugelhorn Br
+620 Flugelhorn Of Br
+621 French Horn St Br
+622 French Horn L Br
+623 French Horn R Br
+624 French Horn St+ Br
+625 French Horn L+ Br
+626 French Horn R+ Br
+627 French Horn St- Br
+628 French Horn L- Br
+629 French Horn R- Br
+630 French Horn St Of Br
+631 French Horn L Of Br
+632 French Horn R Of Br
+633 French Horn St+ Of Br
+634 French Horn L+ Of Br
+635 French Horn R+ Of Br
+636 French Horn St- Of Br
+637 French Horn L- Of Br
+638 French Horn R- Of Br
+639 French Horn Solo Br
+640 French Horn Solo+ Br
+641 French Horn Solo- Br
+642 French Horn Solo Of Br
+643 French Horn Solo+ Of Br
+644 French Horn Solo- Of Br
+645 Tuba Br
+646 Tuba Lp Br
+647 Soprano Sax1 Rd
+648 Soprano Sax1 Of Rd
+649 Soprano Sax2 Rd
+650 Soprano Sax2 Of Rd
+651 Alto Sax1 Rd
+652 Alto Sax1 Of Rd
+653 Alto Sax 2 Rd
+654 Alto Sax2 Of Rd
+655 Alto Sax Vb Rd
+656 Alto Sax Vb Of Rd
+657 Tenor Sax1 Rd
+658 Tenor Sax1 Of Rd
+659 Tenor Sax2 Hard Rd
+660 Tenor Sax2 Hard+ Rd
+661 Tenor Sax2 Hard- Rd
+662 Tenor Sax2 Hard Of Rd
+663 Tenor Sax2 Med Rd
+664 Tenor Sax2 Med+ Rd
+665 Tenor Sax2 Med- Rd
+666 Tenor Sax2 Med Of Rd
+667 Tenor Sax2 Growl Rd
+668 Tenor Sax2 Growl+ Rd
+669 Tenor Sax2 Growl- Rd
+670 Tenor Sax2 Growl Of Rd
+671 Baritone Sax Rd
+672 Baritone Sax Of Rd
+673 Clarinet Soft St Rd
+674 Clarinet Soft St+ Rd
+675 Clarinet Soft St- Rd
+676 Clarinet Soft L Rd
+677 Clarinet Soft L+ Rd
+678 Clarinet Soft L- Rd
+679 Clarinet Soft R Rd
+680 Clarinet Soft R+ Rd
+681 Clarinet Soft R- Rd
+682 Clarinet Soft St Of Rd
+683 Clarinet Soft L Of Rd
+684 Clarinet Soft R Of Rd
+685 Clarinet Med St Rd
+686 Clarinet Med St+ Rd
+687 Clarinet Med St- Rd
+688 Clarinet Med L Rd
+689 Clarinet Med L+ Rd
+690 Clarinet Med L- Rd
+691 Clarinet Med R Rd
+692 Clarinet Med R+ Rd
+693 Clarinet Med R- Rd
+694 Clarinet Med St Of Rd
+695 Clarinet Med L Of Rd
+696 Clarinet Med R Of Rd
+697 Clarinet Hard St Rd
+698 Clarinet Hard St+ Rd
+699 Clarinet Hard St- Rd
+700 Clarinet Hard L Rd
+701 Clarinet Hard L+ Rd
+702 Clarinet Hard L- Rd
+703 Clarinet Hard R Rd
+704 Clarinet Hard R+ Rd
+705 Clarinet Hard R- Rd
+706 Clarinet Hard St Of Rd
+707 Clarinet Hard L Of Rd
+708 Clarinet Hard R Of Rd
+709 Oboe1 Rd
+710 Oboe1 Of Rd
+711 Oboe2 Med St Rd
+712 Oboe2 Med St+ Rd
+713 Oboe2 Med St- Rd
+714 Oboe2 Med L Rd
+715 Oboe2 Med L+ Rd
+716 Oboe2 Med L- Rd
+717 Oboe2 Med R Rd
+718 Oboe2 Med R+ Rd
+719 Oboe2 Med R- Rd
+720 Oboe2 Med St Of Rd
+721 Oboe2 Med L Of Rd
+722 Oboe2 Med R Of Rd
+723 Oboe2 Hard St Rd
+724 Oboe2 Hard St+ Rd
+725 Oboe2 Hard St- Rd
+726 Oboe2 Hard L Rd
+727 Oboe2 Hard L+ Rd
+728 Oboe2 Hard L- Rd
+729 Oboe2 Hard R Rd
+730 Oboe2 Hard R+ Rd
+731 Oboe2 Hard R- Rd
+732 Oboe2 Hard St Of Rd
+733 Oboe2 Hard L Of Rd
+734 Oboe2 Hard R Of Rd
+735 English Horn Rd
+736 English Horn Of Rd
+737 Bassoon Med St Rd
+738 Bassoon Med St+ Rd
+739 Bassoon Med St- Rd
+740 Bassoon Med L Rd
+741 Bassoon Med L+ Rd
+742 Bassoon Med L- Rd
+743 Bassoon Med R Rd
+744 Bassoon Med R+ Rd
+745 Bassoon Med R- Rd
+746 Bassoon Med St Of Rd
+747 Bassoon Med L Of Rd
+748 Bassoon Med R Of Rd
+749 Bassoon Hard St Rd
+750 Bassoon Hard St+ Rd
+751 Bassoon Hard St- Rd
+752 Bassoon Hard L Rd
+753 Bassoon Hard L+ Rd
+754 Bassoon Hard L- Rd
+755 Bassoon Hard R Rd
+756 Bassoon Hard R+ Rd
+757 Bassoon Hard R- Rd
+758 Bassoon Hard St Of Rd
+759 Bassoon Hard L Of Rd
+760 Bassoon Hard R Of Rd
+761 Bagpipe1 Rd
+762 Bagpipe2 Rd
+763 Sax Breath Rd
+764 Harmonica Rd
+765 Chromatic Harmonica Rd
+766 Blues Harmonica Rd
+767 Flute Non-Vib Pi
+768 Flute Non-Vib Of Pi
+769 Flute1 Pi
+770 Flute1 Of Pi
+771 Flute1 Attack Pi
+772 Flute2 Soft St Pi
+773 Flute2 Soft St+ Pi
+774 Flute2 Soft St- Pi
+775 Flute2 Soft L Pi
+776 Flute2 Soft L+ Pi
+777 Flute2 Soft L- Pi
+778 Flute2 Soft R Pi
+779 Flute2 Soft R+ Pi
+780 Flute2 Soft R- Pi
+781 Flute2 Soft St Of Pi
+782 Flute2 Soft L Of Pi
+783 Flute2 Soft R Of Pi
+784 Flute2 Med St Pi
+785 Flute2 Med St+ Pi
+786 Flute2 Med St- Pi
+787 Flute2 Med L Pi
+788 Flute2 Med L+ Pi
+789 Flute2 Med L- Pi
+790 Flute2 Med R Pi
+791 Flute2 Med R+ Pi
+792 Flute2 Med R- Pi
+793 Flute2 Med St Of Pi
+794 Flute2 Med L Of Pi
+795 Flute2 Med R Of Pi
+796 Flute2 Hard St Pi
+797 Flute2 Hard St+ Pi
+798 Flute2 Hard St- Pi
+799 Flute2 Hard L Pi
+800 Flute2 Hard L+ Pi
+801 Flute2 Hard L- Pi
+802 Flute2 Hard R Pi
+803 Flute2 Hard R+ Pi
+804 Flute2 Hard R- Pi
+805 Flute2 Hard St Of Pi
+806 Flute2 Hard L Of Pi
+807 Flute2 Hard R Of Pi
+808 Piccolo Pi
+809 Piccolo Of Pi
+810 Pan Flute Pi
+811 Pan Flute- Pi
+812 Irish Pipe Pi
+813 Irish Pipe Of Pi
+814 Shakuhachi Pi
+815 Shakuhachi Of Pi
+816 Recorder Pi
+817 Recorder Of Pi
+818 Bottle Pi
+819 Ocarina Pi
+820 Ocarina Of Pi
+821 Human Whistle Pi
+822 Breath One Shot Pi
+823 Didgeridoo 1 Pi
+824 Didgeridoo 2 Pi
+825 Didgeridoo 3 Pi
+826 Didgeridoo Combi1 Pi
+827 Didgeridoo Combi2 Pi
+828 Sho Pi
+829 Shanai Pi
+830 Shanai Of Pi
+831 Ney Pi
+832 Ney Of Pi
+833 Kaval Pi
+834 Kaval Of Pi
+835 Keman St
+836 Keman Of St
+837 Sitar Gt
+838 Sitar Waves1 Gt
+839 Sitar Waves2 Gt
+840 Sitar Waves3 Gt
+841 Sitar Waves4 Gt
+842 Sitar Waves5 Gt
+843 Sitar Waves6 Gt
+844 Tambura Gt
+845 Tambura Waves1 Gt
+846 Tambura Waves2 Gt
+847 Tambura Waves3 Gt
+848 Santur Gt
+849 Ud Gt
+850 Kanun Gt
+851 Baglama Gt
+852 Bouzouki Gt
+853 Shamisen Gt
+854 Koto Gt
+855 Kalimba Cp
+856 Gamelan1 Cp
+857 Gamelan2 Cp
+858 Steel Drum Cp
+859 Log Drum1 Pc
+860 Log Drum2 Pc
+861 Wataiko Pc
+862 Djembe Edge Pc
+863 Djembe Mute Pc
+864 Djembe Open Pc
+865 Djembe Combi Pc
+866 Tabla Bya Pc
+867 Tabla Nah Pc
+868 Tabla Mute Pc
+869 Tabla Combi Pc
+870 Small Tabla Dom Pc
+871 Small Tabla Snap Pc
+872 Small Tabla Sak Pc
+873 Small Tabla Tak Pc
+874 Big Tabla Dom Pc
+875 Big Tabla Tak Pc
+876 Big Tabla Sak Pc
+877 Tabla Dom Pc
+878 Tabla Tak1 Pc
+879 Tabla Tak2 Pc
+880 Tabla Tik1 Pc
+881 Tabla Tik2 Pc
+882 Tabla Tik3 Pc
+883 Tabla Sak1 Pc
+884 Tabla Tremolo Pc
+885 Udu Finger Pc
+886 Udu High Pc
+887 Udu Low Pc
+888 Udu Combi Pc
+889 Dohol Low Pc
+890 Dohol High Pc
+891 Barasim Dom Pc
+892 Barasim Sak Pc
+893 Barasim Tak Pc
+894 Segal Dom Pc
+895 Segal Tak Pc
+896 Twaisat Pc
+897 Twaisat2 Pc
+898 Twaisat3 Pc
+899 Twaisat4 Pc
+900 Lama Cymbal Pc
+901 Mondira Pc
+902 Tibetan Bell Pc
+903 Tibetan Bowl Pc
+904 Ghunghuru Pc
+905 Hah Choir St Vo
+906 Hah Choir L Vo
+907 Hah Choir R Vo
+908 Ooh Choir St Vo
+909 Ooh Choir L Vo
+910 Ooh Choir R Vo
+911 Ooh St Vo
+912 Ooh L Vo
+913 Ooh R Vo
+914 Ooh St Of Vo
+915 Ooh L Of Vo
+916 Ooh R Of Vo
+917 Cho Breath L Vo
+918 Cho Breath R Vo
+919 SynVox Vo
+920 VoxNoiz Vo
+921 Itopia Vo
+922 PWM Strings St Wv
+923 PWM Strings Mn Wv
+924 Long Saw Wv
+925 Fat Saw St Wv
+926 Fat Saw Mn Wv
+927 Fat Saw Mn- Wv
+928 OB Mod Saw Wv
+929 VP Strings St Wv
+930 VP Strings L Wv
+931 VP Strings R Wv
+932 OB Strings Wv
+933 Syzzle Strings Wv
+934 Padd Wv
+935 Dark Light Wv
+936 OB Brass Wv
+937 Trance St Wv
+938 Trance Mn Wv
+939 Ring Mod Wv
+940 Sync Lead1 Wv
+941 Sync Lead2 Wv
+942 Sync Lead3 Wv
+943 Sync Lead4 Wv
+944 Sync Lead5 Wv
+945 Sync LFO Wv
+946 PWM Fast Wv
+947 PWM Slow Wv
+948 CS80 Brass Wv
+949 P5 SawDown 0 dg Wv
+950 P5 SawDown 180 dg Wv
+951 P5 SawDown PhaseRndm Wv
+952 P5 SawUp 0 dg Wv
+953 P5 SawUp 90 dg Wv
+954 P5 SawUp 180 dg Wv
+955 P5 SawUp 270 dg Wv
+956 OB Saw Wv
+957 Saw Wv
+958 3o3 Saw Wv
+959 3o3 Saw2 Wv
+960 3o3 Square Wv
+961 1o1 Saw Wv
+962 1o1 Sub Wv
+963 Saw Square Wv
+964 Square Saw Wv
+965 Mini Bass1 Wv
+966 Mini Bass1 Of Wv
+967 Mini Bass2 Wv
+968 Mini Bass2 Of Wv
+969 Mini Bass3a Wv
+970 Mini Bass3b Wv
+971 Mini Bass3c Wv
+972 Q Synbass Wv
+973 Q Synbass Of Wv
+974 Punch Wv
+975 Punch Of Wv
+976 Synth Bass1 Wv
+977 Synth Bass2 Wv
+978 Blip Bass Wv
+979 Blip Bass Of Wv
+980 Klick Bass Wv
+981 Klick Bass Of Wv
+982 Puls Bass Wv
+983 Puls Bass Of Wv
+984 Short Uni Wv
+985 Short Uni Of Wv
+986 Noise Bass Wv
+987 Noise Bass Of Wv
+988 Mg Ramp Wv
+989 Mg Bass1 Wv
+990 Mg Bass1 Of Wv
+991 Mg Bass2 Wv
+992 Mg Bass2 Of Wv
+993 Mg Bass3 Wv
+994 Mg Bass3 Of Wv
+995 Mod Bass Wv
+996 Analog Bass1 Wv
+997 Analog Bass1 Of Wv
+998 Analog Bass2 Wv
+999 Analog Bass2 Of Wv
+1000 Analog Bass3 Wv
+1001 Analog Bass4 Wv
+1002 Analog Bass4 Of Wv
+1003 Analog Bass5 Wv
+1004 Analog Bass5 Of Wv
+1005 Analog Bass6 Wv
+1006 Analog Bass6 Of Wv
+1007 UniBass Wv
+1008 UniBass Of Wv
+1009 T8 Kick Bass Wv
+1010 T8 Kick Bass Of Wv
+1011 FM Bass1 Wv
+1012 FM Bass2 Wv
+1013 FM Bass3 Wv
+1014 FM Bass4 Wv
+1015 FM Bass5 Wv
+1016 FM Bass6 Wv
+1017 Mini Blip1 Wv
+1018 Mini Blip2 Wv
+1019 Mini Blip3 Wv
+1020 Mini Blip4 Wv
+1021 Mini Blip5 Wv
+1022 Mini Blip6 Wv
+1023 FM Square Wv
+1024 FM Shaper Wv
+1025 FM Metal1 Wv
+1026 FM Metal2 Wv
+1027 FM Organ1 Wv
+1028 FM Organ2 Wv
+1029 FM Organ3 Wv
+1030 FM Organ4 Wv
+1031 FM Funk Wv
+1032 FM Guitar Wv
+1033 FS Buzz Wv
+1034 Wet Pluck Wv
+1035 Lately-S Wv
+1036 Lately-L Wv
+1037 P10-1 Wv
+1038 P10-2 Wv
+1039 P10-3 Wv
+1040 P25-1 Wv
+1041 P25-2 Wv
+1042 P50-1 Wv
+1043 P50-2 Wv
+1044 Tri Wave Wv
+1045 Digi 01 Wv
+1046 Digi 02 Wv
+1047 Digi 03 Wv
+1048 Digi 04 Wv
+1049 Digi 05 Wv
+1050 Digi 06 Wv
+1051 Digi 07 Wv
+1052 Digi 08 Wv
+1053 Digi 09 Wv
+1054 Digi 10 Wv
+1055 Digi 11 Wv
+1056 Digi 12 Wv
+1057 Bell1 Wave Wv
+1058 Bell2 Wave Wv
+1059 DigiVox1 Wv
+1060 DigiVox2 Wv
+1061 DigiVox3 Wv
+1062 DigiVox4 Wv
+1063 DigiVox5 Wv
+1064 Vox G2 Wv
+1065 Vox E3 Wv
+1066 DigiOsc1 Wv
+1067 DigiOsc2 Wv
+1068 DigiOsc3 Wv
+1069 DigiOsc4 Wv
+1070 DigiOsc5 Wv
+1071 DigiOsc6 Wv
+1072 DigiOsc7 Wv
+1073 EP Wave 1 Wv
+1074 EP Wave 2 Wv
+1075 EP Wave 3 Wv
+1076 EP Wave 4 Wv
+1077 EP Wave 5 Wv
+1078 EP Wave 6 Wv
+1079 Organ Wave1 Wv
+1080 Organ Wave2 Wv
+1081 Organ Wave3 Wv
+1082 DigiBell1 Wv
+1083 DigiBell2 Wv
+1084 DigiBell3 Wv
+1085 DigiBell4 Wv
+1086 DigiBell5 Wv
+1087 DigiBell6 Wv
+1088 DigiBell7 Wv
+1089 Spectrum1 Wv
+1090 Spectrum2 Wv
+1091 Spectrum3 Wv
+1092 Sine Wv
+1093 Noise Wv
+1094 VibeNP Wv
+1095 Saturation Wv
+1096 Airy Sine Wv
+1097 String Machine Wv
+1098 String Machine+ Wv
+1099 String Machine- Wv
+1100 Med Detuned Pad St Wv
+1101 Med Detuned Pad L Wv
+1102 Med Detuned Pad R Wv
+1103 StrongDetuned Pad St Wv
+1104 StrongDetuned Pad L Wv
+1105 StrongDetuned Pad R Wv
+1106 Med Detuned 3osc Wv
+1107 XP Brass Wv
+1108 XP Brass Lp Wv
+1109 Heterodyning Wv
+1110 Birch St Me
+1111 Birch L Me
+1112 Birch R Me
+1113 Willow St Me
+1114 Willow L Me
+1115 Willow R Me
+1116 Anemone St Me
+1117 Anemone L Me
+1118 Anemone R Me
+1119 Magnitude St Me
+1120 Magnitude L Me
+1121 Magnitude R Me
+1122 SabreTone Me
+1123 String Pad St Me
+1124 String Pad L Me
+1125 String Pad R Me
+1126 VocalRes Me
+1127 Orchestra Hit1 St Me
+1128 Orchestra Hit1 L Me
+1129 Orchestra Hit1 R Me
+1130 Orchestra Hit2 St Me
+1131 Orchestra Hit2 L Me
+1132 Orchestra Hit2 R Me
+1133 Orchestra Hit3 Me
+1134 Vox Bell Me
+1135 Mellow Me
+1136 FX Chime Me
+1137 BellAir Me
+1138 BigSyn Me
+1139 Trance Choir Me
+1140 StabOrgan1 Me
+1141 Eery Me
+1142 Electer Me
+1143 HH Hit Me
+1144 VoxAlk Me
+1145 MultiPiano Me
+1146 Bell Choir Me
+1147 Bell Choir Lp Me
+1148 Dirty Perc Me
+1149 Hi-Lo Me
+1150 AirHose St Me
+1151 AirHose L Me
+1152 AirHose R Me
+1153 Bubble Me
+1154 Swarm Me
+1155 Lektronica Me
+1156 Space Scream Me
+1157 Radio Noise Me
+1158 Ooh Feedback Me
+1159 Fairwave Me
+1160 Hoo Me
+1161 Mind Bell Me
+1162 Loop145 Me
+1163 X-Fade Me
+1164 Resonance X-Fade Me
+1165 Quiek Me
+1166 LFO Seq Me
+1167 Hop FX1 Me
+1168 Hop FX2 Me
+1169 Sonar1 Me
+1170 Sonar2 Me
+1171 Hit Orchestra1 Me
+1172 Hit Brass Me
+1173 Stab Orchestra Me
+1174 Stab Giant Me
+1175 Stab Hard Me
+1176 Stab Organ2 Me
+1177 Stab Aah Me
+1178 Hit Uhh Me
+1179 Hit Orchestra2 Me
+1180 Vox Drum Me
+1181 Raspberry Me
+1182 Digi Breath Me
+1183 Engine Room St Me
+1184 Engine Room L Me
+1185 Engine Room R Me
+1186 DigiHeli Me
+1187 Shower St Me
+1188 Shower L Me
+1189 Shower R Me
+1190 Computer St Me
+1191 Computer L Me
+1192 Computer R Me
+1193 Chatter Me
+1194 Fx Cymbals St Me
+1195 Fx Cymbals L Me
+1196 Fx Cymbals R Me
+1197 Moving Chime St Me
+1198 Moving Chime L Me
+1199 Moving Chime R Me
+1200 Neo Seq Em All Me
+1201 Neo Seq Em-1 Me
+1202 Neo Seq Em-2 Me
+1203 Neo Seq Em-3 Me
+1204 Neo Seq Em-4 Me
+1205 Neo Seq Em-5 Me
+1206 Neo Seq Em-6 Me
+1207 Neo Seq Em-7 Me
+1208 Neo Seq Em-8 Me
+1209 Whisper Seq Bb Me
+1210 Whisper Seq Bb Of Me
+1211 Woody Seq St Me
+1212 Woody Seq L Me
+1213 Woody Seq R Me
+1214 Motion Beam Me
+1215 Warning Mod Me
+1216 Neo Seq2 Em All Me
+1217 Neo Seq2 Em-1 Me
+1218 Neo Seq2 Em-2 Me
+1219 Neo Seq2 Em-3 Me
+1220 Neo Seq2 Em-4 Me
+1221 Neo Seq2 Em-5 Me
+1222 Neo Seq2 Em-6 Me
+1223 Neo Seq2 Em-7 Me
+1224 Neo Seq2 Em-8 Me
+1225 Portamento Lead Seq Me
+1226 Aero Seq All Me
+1227 Aero Seq-1 Me
+1228 Aero Seq-2 Me
+1229 Aero Seq-3 Me
+1230 Aero Seq-4 Me
+1231 Aero Seq-5 Me
+1232 Aero Seq-6 Me
+1233 Aero Seq-7 Me
+1234 Aero Seq-8 Me
+1235 Aero Seq-9 Me
+1236 Aero Seq-10 Me
+1237 Aero Seq-11 Me
+1238 Aero Seq-12 Me
+1239 Aero Seq-13 Me
+1240 Aero Seq-14 Me
+1241 Aero Seq-15 Me
+1242 Aero Seq-16 Me
+1243 FM Tubular Bass Me
+1244 Fx Female Voice St Se
+1245 Fx Female Voice L Se
+1246 Fx Female Voice R Se
+1247 Grain1 Se
+1248 Grain2 St Se
+1249 Grain2 L Se
+1250 Grain2 R Se
+1251 Grain3 St Se
+1252 Grain3 L Se
+1253 Grain3 R Se
+1254 Moving Harp St Se
+1255 Moving Harp L Se
+1256 Moving Harp R Se
+1257 Metal Mod Se
+1258 Digital Wind Se
+1259 Digi Voice Mod Se
+1260 Ethnic Rhythm Rv All Se
+1261 Ethnic Rhythm Rv-1 Se
+1262 Ethnic Rhythm Rv-2 Se
+1263 Ethnic Rhythm Rv-3 Se
+1264 Ethnic Rhythm Rv-4 Se
+1265 Ethnic Rhythm Rv-5 Se
+1266 Ethnic Rhythm Rv-6 Se
+1267 Ethnic Rhythm Rv-7 Se
+1268 Ripper Se
+1269 Glass Se
+1270 Bell FX1 Se
+1271 Bell FX2 Se
+1272 IndusTom Se
+1273 Noise Burst Se
+1274 Zap1 Se
+1275 Zap2 Se
+1276 Electric Perc1 Se
+1277 Electric Perc2 Se
+1278 Electric Perc3 Se
+1279 Electric Perc4 Se
+1280 Electric Perc5 Se
+1281 Electric Perc6 Se
+1282 Electric Perc7 Se
+1283 Electric Perc8 Se
+1284 Electric Perc9 Se
+1285 Electric Perc10 Se
+1286 Electric Perc11 Se
+1287 Electric Perc12 Se
+1288 Electric Perc13 Se
+1289 Electric Perc14 Se
+1290 Electric Perc15 Se
+1291 Hi Q1 Se
+1292 Hi Q2 Se
+1293 Vox Hit Rev Se
+1294 Bomb Se
+1295 Tape Rewind Se
+1296 FxGun1 Se
+1297 FxGun2 Se
+1298 Thunder Se
+1299 TurnTable Se
+1300 Police Se
+1301 Door Squeak Se
+1302 Heart Beat Se
+1303 Helicopter Se
+1304 Seashore Se
+1305 Telephone Se
+1306 TelRing Se
+1307 Bird Se
+1308 Stream Se
+1309 Gunshot Se
+1310 Applause Se
+1311 RainLoop Se
+1312 Scratch H Se
+1313 Scratch L Se
+1314 Scratch Down Se
+1315 Scratch Hi F Se
+1316 Scratch Hi R Se
+1317 Scratch Lo F Se
+1318 Scratch Lo R Se
+1319 Scratch Bd F Se
+1320 Scratch Bd R Se
+1321 Scratch Sd F Se
+1322 Scratch Sd R Se
+1323 Scratch Vo F Se
+1324 Scratch Vo R Se
+1325 Scratch Stop Se
+1326 Scratch Spin Se
+1327 Scratch Hip Se
+1328 Scratch Hip2 Se
+1329 Scratch Attack Se
+1330 Scratch R&B Se
+1331 Scratch Combi Se
+1332 Scratch Combi2 Se
+1333 Scratch Combi3 Se
+1334 Scratch Combi4 Se
+1335 Conga Hi Tip Pc
+1336 Conga Hi Heel Pc
+1337 Conga Hi Open 1-2 Pc
+1338 Conga Hi Open 1 Pc
+1339 Conga Hi Open 2 Pc
+1340 Conga Hi Mute Pc
+1341 Conga Hi Slp Open Pc
+1342 Conga Hi Slap Pc
+1343 Conga Hi SlapMute1-2 Pc
+1344 Conga Hi SlapMute 1 Pc
+1345 Conga Hi SlapMute 2 Pc
+1346 Conga Lo Tip Pc
+1347 Conga Lo Heel Pc
+1348 Conga Lo Open 1-2 Pc
+1349 Conga Lo Open 1 Pc
+1350 Conga Lo Open 2 Pc
+1351 Conga Lo Mute Pc
+1352 Conga Lo SlapOpen Pc
+1353 Quinto1 Open Pc
+1354 Quinto1 Slap Pc
+1355 Quinto2 Open Pc
+1356 Quinto2 Heel Pc
+1357 Tumba Open Pc
+1358 Tumba Slap Pc
+1359 Tumba Tip Pc
+1360 Tumba Heel Pc
+1361 Cuica Lo Pc
+1362 Cuica Hi Pc
+1363 Bongo Hi 1Finger 1-2 Pc
+1364 Bongo Hi 1Finger 1 Pc
+1365 Bongo Hi 1Finger 2 Pc
+1366 Bongo Hi 3Finger 1-2 Pc
+1367 Bongo Hi 3Finger 1 Pc
+1368 Bongo Hi 3Finger 2 Pc
+1369 Bongo Hi Rim Pc
+1370 Bongo Hi Tip Pc
+1371 Bongo Hi Heel Pc
+1372 Bongo Hi Slap Pc
+1373 Bongo Lo 1Finger 1-2 Pc
+1374 Bongo Lo 1Finger 1 Pc
+1375 Bongo Lo 1Finger 2 Pc
+1376 Bongo Lo 3Finger 1-2 Pc
+1377 Bongo Lo 3Finger 1 Pc
+1378 Bongo Lo 3Finger 2 Pc
+1379 Bongo Lo Rim Pc
+1380 Bongo Lo Tip Pc
+1381 Timbale Hi1-3 Pc
+1382 Timbale Hi1 Pc
+1383 Timbale Hi2 Pc
+1384 Timbale Hi3 Pc
+1385 Timbale Lo1-2 Pc
+1386 Timbale Lo1 Pc
+1387 Timbale Lo2 Pc
+1388 Timbale Rim Pc
+1389 Timbale Paila H Pc
+1390 Timbale Paila L Pc
+1391 Paila L Pc
+1392 Paila H Pc
+1393 Ganza Accent Pc
+1394 Ganza Back Pc
+1395 Ganza Forward Pc
+1396 Maracas Sw Pc
+1397 Maracas Slur Pc
+1398 Maracas Staccato Pc
+1399 Cabasa1-2 Pc
+1400 Cabasa1 Pc
+1401 Cabasa2 Pc
+1402 Caxixi1-2 Pc
+1403 Caxixi1 Pc
+1404 Caxixi2 Pc
+1405 Shaker 1/3 Pc
+1406 Shaker 1 Pc
+1407 Shaker 2 Pc
+1408 Shaker 3 Pc
+1409 Shaker Hip1 Pc
+1410 Shaker Hip2 Pc
+1411 Shaker Hip3 Pc
+1412 Shaker Hip4 Pc
+1413 Shekere Down Pc
+1414 Shekere Up Pc
+1415 Shekere Sap Pc
+1416 Tumbo 1 Pc
+1417 Tumbo 2 Pc
+1418 Tumbo 3 Pc
+1419 Tambourine1 Sw Pc
+1420 Tambourine1 Hit Pc
+1421 Tambourine1 Shake Pc
+1422 Pandeiro Open Pc
+1423 Pandeiro Thump Pc
+1424 Pandeiro Tip Pc
+1425 Pandeiro Heel Pc
+1426 Tmbourim Open Pc
+1427 Tmbourim Finger Pc
+1428 Tmbourim Mute Pc
+1429 Agogo Hi Pc
+1430 Agogo Lo Pc
+1431 Agogo Lo Tap Pc
+1432 Guiro Long Pc
+1433 Guiro Short Pc
+1434 Guiro Swp Pc
+1435 MetalGuiro Short1-2 Pc
+1436 MetalGuiro Short1 Pc
+1437 MetalGuiro Short2 Pc
+1438 MetalGuiro Long Pc
+1439 Surdo Open Pc
+1440 Surdo Mute Pc
+1441 Cajon Kick Pc
+1442 Cajon Slap Pc
+1443 Cajon Tip 1-2 Pc
+1444 Cajon Tip 1 Pc
+1445 Cajon Tip 2 Pc
+1446 Stick1 Pc
+1447 Stick2 Pc
+1448 Castanet Pc
+1449 Clave Pc
+1450 Wood Block Pc
+1451 Vibraslap Pc
+1452 Whistle Pc
+1453 Triangle Sw Pc
+1454 Triangle Open Pc
+1455 Triangle Mute Pc
+1456 HandClap St Pc
+1457 HandClap L Pc
+1458 HandClap R Pc
+1459 Handbell L Pc
+1460 Handbell H Pc
+1461 Cowbell1 Pc
+1462 Cowbell2 Pc
+1463 Mambo Bl1 Pc
+1464 Mambo Bl2 Pc
+1465 Mambo Body Pc
+1466 ChaCha Pc
+1467 Sleigh Bell Pc
+1468 Wind Chime Pc
+1469 Clap T9 Pc
+1470 Clap AnSm Pc
+1471 Electric Clap1 Pc
+1472 Electric Clap2 Pc
+1473 Conga T8 Pc
+1474 Cowbell T8 Pc
+1475 Cowbell RX11 Pc
+1476 Cowbell AnCR Pc
+1477 Electric Cowbell Pc
+1478 Analog Shaker Pc
+1479 Tambourine RX5 Pc
+1480 Tambourine AnCR Pc
+1481 Electric Tambourine1 Pc
+1482 Electric Tambourine2 Pc
+1483 MaracasT8 Pc
+1484 Electric Maracas Pc
+1485 Clave T8 Pc
+1486 Electric Triangle Pc
+1487 Analog Click Pc
+1488 HipHop clap1 Pc
+1489 HipHop clap2 Pc
+1490 HipHop clap3 Pc
+1491 HipHop clap4 Pc
+1492 HipHop clap5 Pc
+1493 HipHop clap6 Pc
+1494 HipHop clap7 Pc
+1495 HipHop clap8 Pc
+1496 HipHop flex1 Pc
+1497 HipHop flex2 Pc
+1498 HipHop Snap1 Pc
+1499 HipHop Snap2 Pc
+1500 Bd Snap 1-2 Dr
+1501 Bd Snap 1 Dr
+1502 Bd Snap 2 Dr
+1503 Bd Snap L1-2 Dr
+1504 Bd Snap R1-2 Dr
+1505 Bd Snap L1 Dr
+1506 Bd Snap L2 Dr
+1507 Bd Snap R1 Dr
+1508 Bd Snap R2 Dr
+1509 Bd Tight 1-2 Dr
+1510 Bd Tight 1 Dr
+1511 Bd Tight 2 Dr
+1512 Bd Tight L1-2 Dr
+1513 Bd Tight R1-2 Dr
+1514 Bd Tight L1 Dr
+1515 Bd Tight L2 Dr
+1516 Bd Tight R1 Dr
+1517 Bd Tight R2 Dr
+1518 Bd Ambience 1-2 Dr
+1519 Bd Ambience 1 Dr
+1520 Bd Ambience 2 Dr
+1521 Bd Ambience L1-2 Dr
+1522 Bd Ambience R1-2 Dr
+1523 Bd Ambience L1 Dr
+1524 Bd Ambience L2 Dr
+1525 Bd Ambience R1 Dr
+1526 Bd Ambience R2 Dr
+1527 Bd Normal St1-2 Dr
+1528 Bd Normal 1St Dr
+1529 Bd Normal 2St Dr
+1530 Bd Normal L1-2 Dr
+1531 Bd Normal R1-2 Dr
+1532 Bd Normal 1L Dr
+1533 Bd Normal 1R Dr
+1534 Bd Normal 2L Dr
+1535 Bd Normal 2R Dr
+1536 Bd Funk St1-2 Dr
+1537 Bd Funk 1St Dr
+1538 Bd Funk 2St Dr
+1539 Bd Funk L1-2 Dr
+1540 Bd Funk R1-2 Dr
+1541 Bd Funk 1 L Dr
+1542 Bd Funk 1 R Dr
+1543 Bd Funk 2 L Dr
+1544 Bd Funk 2 R Dr
+1545 Bd High St Dr
+1546 Bd High L Dr
+1547 Bd High R Dr
+1548 Bd Low St Dr
+1549 Bd Low L Dr
+1550 Bd Low R Dr
+1551 Bd H Son St Dr
+1552 Bd H Son L Dr
+1553 Bd H Son R Dr
+1554 Bd L Son St Dr
+1555 Bd L Son L Dr
+1556 Bd L Son R Dr
+1557 Bd Funk Son St Dr
+1558 Bd Funk Son L Dr
+1559 Bd Funk Son R Dr
+1560 Bd Rock1 St Dr
+1561 Bd Rock1 L Dr
+1562 Bd Rock1 R Dr
+1563 Bd Rock2 St Dr
+1564 Bd Rock2 L Dr
+1565 Bd Rock2 R Dr
+1566 Bd Dry1 Dr
+1567 Bd Dry2 Dr
+1568 Bd Pop Dr
+1569 Bd Var1 Dr
+1570 Bd Var2 Dr
+1571 Bd Room1 Dr
+1572 Bd Room2 Dr
+1573 Bd Room3 Dr
+1574 Bd Jazz1-2St Dr
+1575 Bd Jazz1-2L Dr
+1576 Bd Jazz1-2R Dr
+1577 Bd Jazz1St Dr
+1578 Bd Jazz1L Dr
+1579 Bd Jazz1R Dr
+1580 Bd Jazz2St Dr
+1581 Bd Jazz2L Dr
+1582 Bd Jazz2R Dr
+1583 Bd FK Jazz St Dr
+1584 Bd FK Jazz L Dr
+1585 Bd FK Jazz R Dr
+1586 Bd PowerA 1-2St Dr
+1587 Bd PowerA 1-2L Dr
+1588 Bd PowerA 1-2R Dr
+1589 Bd PowerA 1St Dr
+1590 Bd PowerA 1L Dr
+1591 Bd PowerA 1R Dr
+1592 Bd PowerA 2St Dr
+1593 Bd PowerA 2L Dr
+1594 Bd PowerA 2R Dr
+1595 Bd PowerB 1-2St Dr
+1596 Bd PowerB 1-2L Dr
+1597 Bd PowerB 1-2R Dr
+1598 Bd PowerB 1St Dr
+1599 Bd PowerB 1L Dr
+1600 Bd PowerB 1R Dr
+1601 Bd PowerB 2St Dr
+1602 Bd PowerB 2L Dr
+1603 Bd PowerB 2R Dr
+1604 Bd Gran Casa Open St Dr
+1605 Bd Gran Casa Open L Dr
+1606 Bd Gran Casa Open R Dr
+1607 Bd Gran Casa Mute St Dr
+1608 Bd Gran Casa Mute L Dr
+1609 Bd Gran Casa Mute R Dr
+1610 Bd Gate Dr
+1611 Bd FX Gate Dr
+1612 Bd T9-1 Dr
+1613 Bd T9-2 Dr
+1614 Bd T9-3 Dr
+1615 Bd T9-4 Dr
+1616 Bd T9 Hd1 Dr
+1617 Bd T9 Hd2 Dr
+1618 Bd T9 Hd3 Dr
+1619 Bd T8-1 Dr
+1620 Bd T8-2 Dr
+1621 Bd T8-3 Dr
+1622 Bd AnSm Dr
+1623 Bd AnCR Dr
+1624 Bd Human1 Dr
+1625 Bd Human2 Dr
+1626 Bd Blip Dr
+1627 Bd BlpHd Dr
+1628 Bd Jungle1 Dr
+1629 Bd Jungle2 Dr
+1630 Bd Jungle3 Dr
+1631 Bd D&B1 Dr
+1632 Bd D&B2 Dr
+1633 Bd R&B1 Dr
+1634 Bd R&B2 Dr
+1635 Bd Hip Deep Dr
+1636 Bd Break Deep Dr
+1637 Bd Break1 Dr
+1638 Bd Break2 Dr
+1639 Bd Break Heavy Dr
+1640 Bd Break Hard Dr
+1641 Bd Distortion1 Dr
+1642 Bd Distortion2 Dr
+1643 Bd Distortion3 Dr
+1644 Bd Distortion4 Dr
+1645 Bd Distortion5 Dr
+1646 Bd Distortion RM Dr
+1647 Bd +HH Dr
+1648 Bd FxHammer Dr
+1649 Bd ZapHard Dr
+1650 Bd ZapMid Dr
+1651 Bd Sustain Dr
+1652 Bd TekPower Dr
+1653 Bd Hard Long Dr
+1654 Bd Analog Tight Dr
+1655 Bd AnaHard Dr
+1656 Bd Lo-Fi Dr
+1657 Bd ThickSkin Dr
+1658 Bd Slimy Dr
+1659 Bd Elec1 Dr
+1660 Bd Elec2 Dr
+1661 Bd Elec3 Dr
+1662 Bd Elec4 Dr
+1663 Bd ElecComp1 Dr
+1664 Bd ElecComp2 Dr
+1665 Bd ElecComp3 Dr
+1666 Bd ElecFX1 Dr
+1667 Bd ElecFX2 Dr
+1668 Bd ElecGate Dr
+1669 Bd ElecClick Dr
+1670 Bd ElecPower1 Dr
+1671 Bd ElecPower2 Dr
+1672 Bd HipHop1 Dr
+1673 Bd HipHop2 Dr
+1674 Bd HipHop3 Dr
+1675 Bd HipHop4 Dr
+1676 Bd HipHop5 Dr
+1677 Bd HipHop6 Dr
+1678 Bd HipHop7 Dr
+1679 Bd HipHop8 Dr
+1680 Bd HipHop9 Dr
+1681 Bd HipHop10 Dr
+1682 Sd Bld St1-4 Dr
+1683 Sd Bld St1-3 Dr
+1684 Sd Bld St2-4 Dr
+1685 Sd Bld St1-2 Dr
+1686 Sd Bld St2-3 Dr
+1687 Sd Bld St3-4 Dr
+1688 Sd Bld St1 Dr
+1689 Sd Bld St2 Dr
+1690 Sd Bld St3 Dr
+1691 Sd Bld St4 Dr
+1692 Sd Bld L1-4 Dr
+1693 Sd Bld R1-4 Dr
+1694 Sd Bld L1 Dr
+1695 Sd Bld L2 Dr
+1696 Sd Bld L3 Dr
+1697 Sd Bld L4 Dr
+1698 Sd Bld R1 Dr
+1699 Sd Bld R2 Dr
+1700 Sd Bld R3 Dr
+1701 Sd Bld R4 Dr
+1702 Sd Soul St1-4 Dr
+1703 Sd Soul St1-3 Dr
+1704 Sd Soul St2-4 Dr
+1705 Sd Soul St1-2 Dr
+1706 Sd Soul St2-3 Dr
+1707 Sd Soul St3-4 Dr
+1708 Sd Soul L1-4 Dr
+1709 Sd Soul R1-4 Dr
+1710 Sd Soul St1 Dr
+1711 Sd Soul St2 Dr
+1712 Sd Soul St3 Dr
+1713 Sd Soul St4 Dr
+1714 Sd Soul L1 Dr
+1715 Sd Soul L2 Dr
+1716 Sd Soul L3 Dr
+1717 Sd Soul L4 Dr
+1718 Sd Soul R1 Dr
+1719 Sd Soul R2 Dr
+1720 Sd Soul R3 Dr
+1721 Sd Soul R4 Dr
+1722 Sd Strong St1-4 Dr
+1723 Sd Strong St1-3 Dr
+1724 Sd Strong St2-4 Dr
+1725 Sd Strong St1-2 Dr
+1726 Sd Strong St2-3 Dr
+1727 Sd Strong St3-4 Dr
+1728 Sd Strong St1 Dr
+1729 Sd Strong St2 Dr
+1730 Sd Strong St3 Dr
+1731 Sd Strong St4 Dr
+1732 Sd Strong L1-4 Dr
+1733 Sd Strong R1-4 Dr
+1734 Sd Strong L1 Dr
+1735 Sd Strong L2 Dr
+1736 Sd Strong L3 Dr
+1737 Sd Strong L4 Dr
+1738 Sd Strong R1 Dr
+1739 Sd Strong R2 Dr
+1740 Sd Strong R3 Dr
+1741 Sd Strong R4 Dr
+1742 Sd Rng St1-4 Dr
+1743 Sd Rng St1-3 Dr
+1744 Sd Rng St2-4 Dr
+1745 Sd Rng St1-2 Dr
+1746 Sd Rng St2-3 Dr
+1747 Sd Rng St3-4 Dr
+1748 Sd Rng St1 Dr
+1749 Sd Rng St2 Dr
+1750 Sd Rng St3 Dr
+1751 Sd Rng St4 Dr
+1752 Sd Rng L1-4 Dr
+1753 Sd Rng R1-4 Dr
+1754 Sd Rng L1 Dr
+1755 Sd Rng L2 Dr
+1756 Sd Rng L3 Dr
+1757 Sd Rng L4 Dr
+1758 Sd Rng R1 Dr
+1759 Sd Rng R2 Dr
+1760 Sd Rng R3 Dr
+1761 Sd Rng R4 Dr
+1762 Sd Normal St1-4 Dr
+1763 Sd Normal St1-3 Dr
+1764 Sd Normal St2-4 Dr
+1765 Sd Normal St1-2 Dr
+1766 Sd Normal St2-3 Dr
+1767 Sd Normal St3-4 Dr
+1768 Sd Normal 1St Dr
+1769 Sd Normal 2St Dr
+1770 Sd Normal 3St Dr
+1771 Sd Normal 4St Dr
+1772 Sd Normal L1-4 Dr
+1773 Sd Normal R1-4 Dr
+1774 Sd Normal 1L Dr
+1775 Sd Normal 1R Dr
+1776 Sd Normal 2L Dr
+1777 Sd Normal 2R Dr
+1778 Sd Normal 3L Dr
+1779 Sd Normal 3R Dr
+1780 Sd Normal 4L Dr
+1781 Sd Normal 4R Dr
+1782 Sd Funk St1-3 Dr
+1783 Sd Funk St1-2 Dr
+1784 Sd Funk St2-3 Dr
+1785 Sd Funk St1/3 Dr
+1786 Sd Funk 1St Dr
+1787 Sd Funk 2St Dr
+1788 Sd Funk 3St Dr
+1789 Sd Funk L1-3 Dr
+1790 Sd Funk R1-3 Dr
+1791 Sd Funk 1L Dr
+1792 Sd Funk 1R Dr
+1793 Sd Funk 2L Dr
+1794 Sd Funk 2R Dr
+1795 Sd Funk 3L Dr
+1796 Sd Funk 3R Dr
+1797 Sd Funk Ay St Dr
+1798 Sd Funk Ay L Dr
+1799 Sd Funk Ay R Dr
+1800 Sd Basic St1-3 Dr
+1801 Sd Basic St1-2 Dr
+1802 Sd Basic St2-3 Dr
+1803 Sd Basic St1/3 Dr
+1804 Sd Basic 1St Dr
+1805 Sd Basic 2St Dr
+1806 Sd Basic 3St Dr
+1807 Sd Basic L1-3 Dr
+1808 Sd Basic R1-3 Dr
+1809 Sd Basic 1L Dr
+1810 Sd Basic 1R Dr
+1811 Sd Basic 2L Dr
+1812 Sd Basic 2R Dr
+1813 Sd Basic 3L Dr
+1814 Sd Basic 3R Dr
+1815 Sd SonA St1-4 Dr
+1816 Sd SonA St1-3 Dr
+1817 Sd SonA St2-4 Dr
+1818 Sd SonA St1-2 Dr
+1819 Sd SonA St2-3 Dr
+1820 Sd SonA St3-4 Dr
+1821 Sd SonA 1St Dr
+1822 Sd SonA 2St Dr
+1823 Sd SonA 3St Dr
+1824 Sd SonA 4St Dr
+1825 Sd SonA L1-4 Dr
+1826 Sd SonA R1-4 Dr
+1827 Sd SonA 1L Dr
+1828 Sd SonA 1R Dr
+1829 Sd SonA 2L Dr
+1830 Sd SonA 2R Dr
+1831 Sd SonA 3L Dr
+1832 Sd SonA 3R Dr
+1833 Sd SonA 4L Dr
+1834 Sd SonA 4R Dr
+1835 Sd Blues St1-3 Dr
+1836 Sd Blues St1-2 Dr
+1837 Sd Blues St2-3 Dr
+1838 Sd Blues St1/3 Dr
+1839 Sd Blues 1St Dr
+1840 Sd Blues 2St Dr
+1841 Sd Blues 3St Dr
+1842 Sd Blues L1-3 Dr
+1843 Sd Blues R1-3 Dr
+1844 Sd Blues 1L Dr
+1845 Sd Blues 1R Dr
+1846 Sd Blues 2L Dr
+1847 Sd Blues 2R Dr
+1848 Sd Blues 3L Dr
+1849 Sd Blues 3R Dr
+1850 Sd BluesHeart St1-3 Dr
+1851 Sd BluesHeart St1-2 Dr
+1852 Sd BluesHeart St2-3 Dr
+1853 Sd BluesHeart St1/3 Dr
+1854 Sd BluesHeart 1St Dr
+1855 Sd BluesHeart 2St Dr
+1856 Sd BluesHeart 3St Dr
+1857 Sd BluesHeart L1-3 Dr
+1858 Sd BluesHeart R1-3 Dr
+1859 Sd BluesHeart 1L Dr
+1860 Sd BluesHeart 1R Dr
+1861 Sd BluesHeart 2L Dr
+1862 Sd BluesHeart 2R Dr
+1863 Sd BluesHeart 3L Dr
+1864 Sd BluesHeart 3R Dr
+1865 Sd Tight St1-4 Dr
+1866 Sd Tight St1-3 Dr
+1867 Sd Tight St2-4 Dr
+1868 Sd Tight St1-2 Dr
+1869 Sd Tight St2-3 Dr
+1870 Sd Tight St3-4 Dr
+1871 Sd Tight 1St Dr
+1872 Sd Tight 2St Dr
+1873 Sd Tight 3St Dr
+1874 Sd Tight 4St Dr
+1875 Sd Tight L1-4 Dr
+1876 Sd Tight R1-4 Dr
+1877 Sd Tight 1L Dr
+1878 Sd Tight 1R Dr
+1879 Sd Tight 2L Dr
+1880 Sd Tight 2R Dr
+1881 Sd Tight 3L Dr
+1882 Sd Tight 3R Dr
+1883 Sd Tight 4L Dr
+1884 Sd Tight 4R Dr
+1885 Sd Hip St1-2 Dr
+1886 Sd Hip 1St Dr
+1887 Sd Hip 2St Dr
+1888 Sd Hip L1-2 Dr
+1889 Sd Hip R1-2 Dr
+1890 Sd Hip 1L Dr
+1891 Sd Hip 1R Dr
+1892 Sd Hip 2L Dr
+1893 Sd Hip 2R Dr
+1894 Sd Rock Open1 St Dr
+1895 Sd Rock Open1 L Dr
+1896 Sd Rock Open1 R Dr
+1897 Sd Rock Mute1 St Dr
+1898 Sd Roc kMute1 L Dr
+1899 Sd Rock Mute1 R Dr
+1900 Sd Rock Rim1 St Dr
+1901 Sd Rock Rim1 L Dr
+1902 Sd Rock Rim1 R Dr
+1903 Sd Rock Open2 St Dr
+1904 Sd Rock Open2 L Dr
+1905 Sd Rock Open2 R Dr
+1906 Sd Rock Mute2 St Dr
+1907 Sd Rock Mute2 L Dr
+1908 Sd Rock Mute2 R Dr
+1909 Sd Rock Rim2 St Dr
+1910 Sd Rock Rim2 L Dr
+1911 Sd Rock Rim2 R Dr
+1912 Sd Rock Flam St Dr
+1913 Sd Rock Flam L Dr
+1914 Sd Rock Flam R Dr
+1915 Sd Piccolo Dr
+1916 Sd Piccolo Rim1 Dr
+1917 Sd Piccolo Rim2 Dr
+1918 Sd Mid Dr
+1919 Sd Mid Rim Dr
+1920 Sd Ambience Dr
+1921 Sd PowerA 1-5St Dr
+1922 Sd PowerA 1-5L Dr
+1923 Sd PowerA 1-5R Dr
+1924 Sd PowerA 1-4St Dr
+1925 Sd PowerA 1-4L Dr
+1926 Sd PowerA 1-4R Dr
+1927 Sd PowerA 1St Dr
+1928 Sd PowerA 1L Dr
+1929 Sd PowerA 1R Dr
+1930 Sd PowerA 2St Dr
+1931 Sd PowerA 2L Dr
+1932 Sd PowerA 2R Dr
+1933 Sd PowerA 3St Dr
+1934 Sd PowerA 3L Dr
+1935 Sd PowerA 3R Dr
+1936 Sd PowerA 4St Dr
+1937 Sd PowerA 4L Dr
+1938 Sd PowerA 4R Dr
+1939 Sd PowerA 5St Dr
+1940 Sd PowerA 5L Dr
+1941 Sd PowerA 5R Dr
+1942 Sd PowerB 1-5St Dr
+1943 Sd PowerB 1-5L Dr
+1944 Sd PowerB 1-5R Dr
+1945 Sd PowerB 1-4St Dr
+1946 Sd PowerB 1-4L Dr
+1947 Sd PowerB 1-4R Dr
+1948 Sd PowerB 1St Dr
+1949 Sd PowerB 1L Dr
+1950 Sd PowerB 1R Dr
+1951 Sd PowerB 2St Dr
+1952 Sd PowerB 2L Dr
+1953 Sd PowerB 2R Dr
+1954 Sd PowerB 3St Dr
+1955 Sd PowerB 3L Dr
+1956 Sd PowerB 3R Dr
+1957 Sd PowerB 4St Dr
+1958 Sd PowerB 4L Dr
+1959 Sd PowerB 4R Dr
+1960 Sd PowerB 5St Dr
+1961 Sd PowerB 5L Dr
+1962 Sd PowerB 5R Dr
+1963 Sd PowerB SSt Dr
+1964 Sd PowerB SL Dr
+1965 Sd PowerB SR Dr
+1966 Sd PowerC 1-5St Dr
+1967 Sd PowerC 1-5L Dr
+1968 Sd PowerC 1-5R Dr
+1969 Sd PowerC 1-4St Dr
+1970 Sd PowerC 1-4L Dr
+1971 Sd PowerC 1-4R Dr
+1972 Sd PowerC 1St Dr
+1973 Sd PowerC 1L Dr
+1974 Sd PowerC 1R Dr
+1975 Sd PowerC 2St Dr
+1976 Sd PowerC 2L Dr
+1977 Sd PowerC 2R Dr
+1978 Sd PowerC 3St Dr
+1979 Sd PowerC 3L Dr
+1980 Sd PowerC 3R Dr
+1981 Sd PowerC 4St Dr
+1982 Sd PowerC 4L Dr
+1983 Sd PowerC 4R Dr
+1984 Sd PowerC 5St Dr
+1985 Sd PowerC 5L Dr
+1986 Sd PowerC 5R Dr
+1987 Sd PowerD 1-5St Dr
+1988 Sd PowerD 1-5L Dr
+1989 Sd PowerD 1-5R Dr
+1990 Sd PowerD 1-4St Dr
+1991 Sd PowerD 1-4L Dr
+1992 Sd PowerD 1-4R Dr
+1993 Sd PowerD 1St Dr
+1994 Sd PowerD 1L Dr
+1995 Sd PowerD 1R Dr
+1996 Sd PowerD 2St Dr
+1997 Sd PowerD 2L Dr
+1998 Sd PowerD 2R Dr
+1999 Sd PowerD 3St Dr
+2000 Sd PowerD 3L Dr
+2001 Sd PowerD 3R Dr
+2002 Sd PowerD 4St Dr
+2003 Sd PowerD 4L Dr
+2004 Sd PowerD 4R Dr
+2005 Sd PowerD 5St Dr
+2006 Sd PowerD 5L Dr
+2007 Sd PowerD 5R Dr
+2008 Sd Gate1 Dr
+2009 Sd Gate2 Dr
+2010 Sd LdwHMono Dr
+2011 Sd BreakRim Dr
+2012 Sd Dry Dr
+2013 Sd Heavy Dr
+2014 Sd GM Dr
+2015 Sd Rock Stick1 St Dr
+2016 Sd Rock Stick1 L Dr
+2017 Sd Rock Stick1 R Dr
+2018 Sd Rock Stick2 St Dr
+2019 Sd Rock Stick2 L Dr
+2020 Sd Rock Stick2 R Dr
+2021 Sd Hip Stick1 Dr
+2022 Sd Hip Stick2 Dr
+2023 Sd Hip Stick3 Dr
+2024 Sd Hip Stick4 Dr
+2025 Sd Hip Stick5 Dr
+2026 Sd Hip Stick6 St Dr
+2027 Sd Hip Stick6 L Dr
+2028 Sd Hip Stick6 R Dr
+2029 Sd Hip Stick7 Dr
+2030 Sd Hip Stick8 Dr
+2031 Sd Closed Rim St Dr
+2032 Sd Closed Rim L Dr
+2033 Sd Closed Rim R Dr
+2034 Sd Closed Rim2 Dr
+2035 Sd Closed Rim3 Dr
+2036 Sd RockRoll St Dr
+2037 Sd RockRoll L Dr
+2038 Sd RockRoll R Dr
+2039 Sd RockRollD St Dr
+2040 Sd RockRollD L Dr
+2041 Sd RockRollD R Dr
+2042 Sd LiveRoll St Dr
+2043 Sd LiveRoll L Dr
+2044 Sd LiveRoll R Dr
+2045 Sd Roll Mono Dr
+2046 Sd Brush Soft St Dr
+2047 Sd Brush Soft L Dr
+2048 Sd Brush Soft R Dr
+2049 Sd Brush Med St Dr
+2050 Sd Brush Med L Dr
+2051 Sd Brush Med R Dr
+2052 Sd Brush vari St Dr
+2053 Sd Brush vari L Dr
+2054 Sd Brush vari R Dr
+2055 Sd Closed Rim4 St Dr
+2056 Sd Closed Rim4 L Dr
+2057 Sd Closed Rim4 R Dr
+2058 Sd Brush Swir St Dr
+2059 Sd Brush Swir L Dr
+2060 Sd Brush Swir R Dr
+2061 Sd Brush SwirAtt St Dr
+2062 Sd Brush SwirAtt L Dr
+2063 Sd Brush SwirAtt R Dr
+2064 Sd Orch1 Sw St Dr
+2065 Sd Orch1 S St Dr
+2066 Sd Orch1 H St Dr
+2067 Sd Orch1 Sw L Dr
+2068 Sd Orch1 Sw R Dr
+2069 Sd Orch1 S L Dr
+2070 Sd Orch1 H L Dr
+2071 Sd Orch1 S R Dr
+2072 Sd Orch1 H R Dr
+2073 Sd Orch2 SwSt Dr
+2074 Sd Orch2 S St Dr
+2075 Sd Orch2 H St Dr
+2076 Sd Orch2 Sw L Dr
+2077 Sd Orch2 Sw R Dr
+2078 Sd Orch2 S L Dr
+2079 Sd Orch2 H L Dr
+2080 Sd Orch2 S R Dr
+2081 Sd Orch2 H R Dr
+2082 Sd Orch Roll St Dr
+2083 Sd Orch Roll L Dr
+2084 Sd Orch Roll R Dr
+2085 Sd Elec1 Dr
+2086 Sd Elec2 Dr
+2087 Sd Elec3 Dr
+2088 Sd Elec4 Dr
+2089 Sd Elec5 Dr
+2090 Sd Elec6 Dr
+2091 Sd Elec7 Dr
+2092 Sd Elec8 Dr
+2093 Sd Elec9 Dr
+2094 Sd Elec10 Dr
+2095 Sd Elec11 Dr
+2096 Sd Elec12 Dr
+2097 Sd T9-1 Dr
+2098 Sd T9-2 Dr
+2099 Sd T9-3 Dr
+2100 Sd T9-4 Dr
+2101 Sd T9-5 Dr
+2102 Sd T9Gate Dr
+2103 Sd T9Rim Dr
+2104 Sd T8-1 Dr
+2105 Sd T8-2 Dr
+2106 Sd T8-3 Dr
+2107 Sd T8-4 Dr
+2108 Sd T8-5 Dr
+2109 Sd T8 Rim Dr
+2110 Sd AnSm Dr
+2111 Sd AnSm Rim Dr
+2112 Sd AnCR Dr
+2113 Sd AnCR Rim Dr
+2114 Sd Human1 Dr
+2115 Sd Human2 Dr
+2116 Sd Jungle1 Dr
+2117 Sd Jungle2 Dr
+2118 Sd Jungle3 Dr
+2119 Sd JungleFX Dr
+2120 Sd D&B1 Dr
+2121 Sd D&B2 Dr
+2122 Sd D&B3 Dr
+2123 Sd D&B4 Dr
+2124 Sd R&B1 Dr
+2125 Sd R&B1 Rim Dr
+2126 Sd R&B2 Dr
+2127 Sd Hip1 Dr
+2128 Sd Hip2 Dr
+2129 Sd Hip3 Dr
+2130 Sd Hip Gate Dr
+2131 Sd Hip Rim1 Dr
+2132 Sd Hip Rim2 Dr
+2133 Sd Hip Rim3 Dr
+2134 Sd Hip Rim4 Dr
+2135 Sd Hip Rim5 Dr
+2136 Sd Break1 Dr
+2137 Sd Break2 Dr
+2138 Sd Break3 Dr
+2139 Sd Break Heavy Dr
+2140 Sd Break Roll Dr
+2141 Sd FX1 Dr
+2142 Sd FX2 Dr
+2143 Sd FX3 Dr
+2144 Sd FX4 Dr
+2145 Sd ClapAna Dr
+2146 Sd Dist Dr
+2147 Sd Cut Dr
+2148 Sd Garg H Dr
+2149 Sd Garg L Dr
+2150 Sd FM Dr
+2151 Sd FM Rim Dr
+2152 Sd Syn Dr
+2153 Sd Clappy Dr
+2154 Sd Timbr Dr
+2155 Sd Wood Dr
+2156 Sd Hammer Dr
+2157 Sd Lo-Fi Dr
+2158 Sd Rim SE Dr
+2159 Sd HipHop1 Dr
+2160 Sd HipHop2 Dr
+2161 Sd HipHop3 Dr
+2162 Sd HipHop5 Dr
+2163 Sd HipHop6 Dr
+2164 Sd HipHop7 Dr
+2165 Sd HipHop9 Dr
+2166 Sd HipHop10 Dr
+2167 Sd HipHop11 Dr
+2168 Sd HipHop Rim1 Dr
+2169 Sd HipHop Rim2 Dr
+2170 Sd HipHop Rim3 Dr
+2171 Sd HipHop Rim4 Dr
+2172 Sd HipHop Rim5 Dr
+2173 Sd HipHop Rim6 Dr
+2174 HH Closed 1-4St Dr
+2175 HH Closed 1St Dr
+2176 HH Closed 2St Dr
+2177 HH Closed 3St Dr
+2178 HH Closed 4St Dr
+2179 HH Closed 1-4L Dr
+2180 HH Closed 1-4R Dr
+2181 HH Closed 1L Dr
+2182 HH Closed 2L Dr
+2183 HH Closed 3L Dr
+2184 HH Closed 4L Dr
+2185 HH Closed 1R Dr
+2186 HH Closed 2R Dr
+2187 HH Closed 3R Dr
+2188 HH Closed 4R Dr
+2189 HH Closed 1-4RL Dr
+2190 HH Closed 1RL Dr
+2191 HH Closed 2RL Dr
+2192 HH Closed 3RL Dr
+2193 HH Closed 4RL Dr
+2194 HH Pedal 1-3St Dr
+2195 HH Pedal 1 St Dr
+2196 HH Pedal 2 St Dr
+2197 HH Pedal 3 St Dr
+2198 HH Pedal 1-3 L Dr
+2199 HH Pedal 1-3 R Dr
+2200 HH Pedal 1 L Dr
+2201 HH Pedal 2 L Dr
+2202 HH Pedal 3 L Dr
+2203 HH Pedal 1 R Dr
+2204 HH Pedal 2 R Dr
+2205 HH Pedal 3 R Dr
+2206 HH Pedal 1-3RL Dr
+2207 HH Pedal 1 RL Dr
+2208 HH Pedal 2 RL Dr
+2209 HH Pedal 3 RL Dr
+2210 HH Open 1-2St Dr
+2211 HH Open 1St Dr
+2212 HH Open 2St Dr
+2213 HH Open 1-2L Dr
+2214 HH Open 1-2R Dr
+2215 HH Open 1L Dr
+2216 HH Open 2L Dr
+2217 HH Open 1R Dr
+2218 HH Open 2R Dr
+2219 HH Open 1-2RL Dr
+2220 HH Open 1RL Dr
+2221 HH Open 2RL Dr
+2222 HH Closed Foot St Dr
+2223 HH Closed Foot L Dr
+2224 HH Closed Foot R Dr
+2225 HH Closed Foot RL Dr
+2226 HH Half Open2 St Dr
+2227 HH Half Open2 L Dr
+2228 HH Half Open2 R Dr
+2229 HH Half Open2 RL Dr
+2230 HH Open2 St Dr
+2231 HH Open2 L Dr
+2232 HH Open2 R Dr
+2233 HH Open2 RL Dr
+2234 HH Closed Rock Sw St Dr
+2235 HH Closed Rock Sw RL Dr
+2236 HH Closed Rock S St Dr
+2237 HH Closed Rock S RL Dr
+2238 HH Closed Rock H St Dr
+2239 HH Closed Rock H RL Dr
+2240 HH Closed Rock Sw L Dr
+2241 HH Closed Rock Sw R Dr
+2242 HH Closed Rock S L Dr
+2243 HH Closed Rock S R Dr
+2244 HH Closed Rock H L Dr
+2245 HH Closed Rock H R Dr
+2246 HH Pedal Rock Sw St Dr
+2247 HH Pedal Rock Sw RL Dr
+2248 HH Pedal Rock Sw L Dr
+2249 HH Pedal Rock Sw R Dr
+2250 HH Closed Rock 2St Dr
+2251 HH Closed Rock 2L Dr
+2252 HH Closed Rock 2R Dr
+2253 HH Closed Rock 2RL Dr
+2254 HH Pedal Rock St Dr
+2255 HH Pedal Rock L Dr
+2256 HH Pedal Rock R Dr
+2257 HH Pedal Rock RL Dr
+2258 HH Open Rock Sw St Dr
+2259 HH Open Rock Sw RL Dr
+2260 HH Open Rock St Dr
+2261 HH Open Rock RL Dr
+2262 HH Half Open Rock St Dr
+2263 HH Open Rock Sw L Dr
+2264 HH Open Rock Sw R Dr
+2265 HH Open Rock L Dr
+2266 HH Open Rock R Dr
+2267 HH Half Open Rock L Dr
+2268 HH Half Open Rock R Dr
+2269 HH Half Open Rock RL Dr
+2270 HH Closed Mono Dr
+2271 HH Open Mono Dr
+2272 HH Pedal Mono Dr
+2273 HH Power ClTip 1-4St Dr
+2274 HH Power ClTip 1-4L Dr
+2275 HH Power ClTip 1-4R Dr
+2276 HH Power ClTip 1-4RL Dr
+2277 HH Power ClTip 1St Dr
+2278 HH Power ClTip 1L Dr
+2279 HH Power ClTip 1R Dr
+2280 HH Power ClTip 1RL Dr
+2281 HH Power ClTip 2St Dr
+2282 HH Power ClTip 2L Dr
+2283 HH Power ClTip 2R Dr
+2284 HH Power ClTip 2RL Dr
+2285 HH Power ClTip 3St Dr
+2286 HH Power ClTip 3L Dr
+2287 HH Power ClTip 3R Dr
+2288 HH Power ClTip 3RL Dr
+2289 HH Power ClTip 4St Dr
+2290 HH Power ClTip 4L Dr
+2291 HH Power ClTip 4R Dr
+2292 HH Power ClTip 4RL Dr
+2293 HH Power ClEgde1-4St Dr
+2294 HH Power ClEgde1-4L Dr
+2295 HH Power ClEgde1-4R Dr
+2296 HH Power ClEgde1-4RL Dr
+2297 HH Power ClEgde 1St Dr
+2298 HH Power ClEgde 1L Dr
+2299 HH Power ClEgde 1R Dr
+2300 HH Power ClEgde 1RL Dr
+2301 HH Power ClEgde 2St Dr
+2302 HH Power ClEgde 2L Dr
+2303 HH Power ClEgde 2R Dr
+2304 HH Power ClEgde 2RL Dr
+2305 HH Power ClEgde 3St Dr
+2306 HH Power ClEgde 3L Dr
+2307 HH Power ClEgde 3R Dr
+2308 HH Power ClEgde 3RL Dr
+2309 HH Power ClEgde 4St Dr
+2310 HH Power ClEgde 4L Dr
+2311 HH Power ClEgde 4R Dr
+2312 HH Power ClEgde 4RL Dr
+2313 HH Power ClPedal St Dr
+2314 HH Power ClPedal L Dr
+2315 HH Power ClPedal R Dr
+2316 HH Power ClPedal RL Dr
+2317 HH Power Open EdgeSt Dr
+2318 HH Power Open EdgeL Dr
+2319 HH Power Open EdgeR Dr
+2320 HH Power Open EdgeRL Dr
+2321 HH Brush Closed Dr
+2322 HH Brush Open Dr
+2323 HH Brush Pedal Dr
+2324 HH Closed T9 Dr
+2325 HH Open T9 Dr
+2326 HH Closed T8-1 Dr
+2327 HH Open T8-1 Dr
+2328 HH Closed T8-2 Dr
+2329 HH Open T8-2 Dr
+2330 HH Closed RX5 Dr
+2331 HH Closed AnCR Dr
+2332 HH Open AnCR Dr
+2333 HH Closed Break Dr
+2334 HH Pedal Break Dr
+2335 HH Closed D&B Dr
+2336 HH Pedal D&B Dr
+2337 HH Open D&B Dr
+2338 HH Reverse D&B Dr
+2339 HH Closed Tek Dr
+2340 HH Open Tek Dr
+2341 HH Closed Hip Dr
+2342 HH Pedal Hip Dr
+2343 HH Open Hip Dr
+2344 HH Closed Lo-Fi Dr
+2345 HH Open Lo-Fi Dr
+2346 HH Closed Syn Dr
+2347 HH Open Syn Dr
+2348 HH Closed FX Dr
+2349 HH Open FX Dr
+2350 HH Open Human Dr
+2351 Tom Hi St Dr
+2352 Tom Hi L Dr
+2353 Tom Hi R Dr
+2354 Tom Hi RL Dr
+2355 Tom Mid St Dr
+2356 Tom Mid L Dr
+2357 Tom Mid R Dr
+2358 Tom Mid RL Dr
+2359 Tom Low St Dr
+2360 Tom Low L Dr
+2361 Tom Low R Dr
+2362 Tom Low RL Dr
+2363 Tom Floor St Dr
+2364 Tom Floor L Dr
+2365 Tom Floor R Dr
+2366 Tom Floor RL Dr
+2367 Tom Rock Hi St Dr
+2368 Tom Rock Hi L Dr
+2369 Tom Rock Hi R Dr
+2370 Tom Rock Hi RL Dr
+2371 Tom Rock Mid St Dr
+2372 Tom Rock Mid L Dr
+2373 Tom Rock Mid R Dr
+2374 Tom Rock Mid RL Dr
+2375 Tom Rock Low St Dr
+2376 Tom Rock Low L Dr
+2377 Tom Rock Low R Dr
+2378 Tom Rock Low RL Dr
+2379 Tom Power01 1-2St Dr
+2380 Tom Power01 1-2L Dr
+2381 Tom Power01 1-2R Dr
+2382 Tom Power01 1-2RL Dr
+2383 Tom Power01 1St Dr
+2384 Tom Power01 1L Dr
+2385 Tom Power01 1R Dr
+2386 Tom Power01 1RL Dr
+2387 Tom Power01 2St Dr
+2388 Tom Power01 2L Dr
+2389 Tom Power01 2R Dr
+2390 Tom Power01 2RL Dr
+2391 Tom Power03 1-2St Dr
+2392 Tom Power03 1-2L Dr
+2393 Tom Power03 1-2R Dr
+2394 Tom Power03 1-2RL Dr
+2395 Tom Power03 1St Dr
+2396 Tom Power03 1L Dr
+2397 Tom Power03 1R Dr
+2398 Tom Power03 1RL Dr
+2399 Tom Power03 2St Dr
+2400 Tom Power03 2L Dr
+2401 Tom Power03 2R Dr
+2402 Tom Power03 2RL Dr
+2403 Tom Power04 1-2St Dr
+2404 Tom Power04 1-2L Dr
+2405 Tom Power04 1-2R Dr
+2406 Tom Power04 1-2RL Dr
+2407 Tom Power04 1St Dr
+2408 Tom Power04 1L Dr
+2409 Tom Power04 1R Dr
+2410 Tom Power04 1RL Dr
+2411 Tom Power04 2St Dr
+2412 Tom Power04 2L Dr
+2413 Tom Power04 2R Dr
+2414 Tom Power04 2RL Dr
+2415 Tom Power05 1-2St Dr
+2416 Tom Power05 1-2L Dr
+2417 Tom Power05 1-2R Dr
+2418 Tom Power05 1-2RL Dr
+2419 Tom Power05 1St Dr
+2420 Tom Power05 1L Dr
+2421 Tom Power05 1R Dr
+2422 Tom Power05 1RL Dr
+2423 Tom Power05 2St Dr
+2424 Tom Power05 2L Dr
+2425 Tom Power05 2R Dr
+2426 Tom Power05 2RL Dr
+2427 Tom Brush Hi St Dr
+2428 Tom Brush Hi L Dr
+2429 Tom Brush Hi R Dr
+2430 Tom Brush Hi RL Dr
+2431 Tom Brush Mid St Dr
+2432 Tom Brush Mid L Dr
+2433 Tom Brush Mid R Dr
+2434 Tom Brush Mid RL Dr
+2435 Tom Brush Low St Dr
+2436 Tom Brush Low L Dr
+2437 Tom Brush Low R Dr
+2438 Tom Brush Low RL Dr
+2439 Tom Brush floor St Dr
+2440 Tom Brush Floor L Dr
+2441 Tom Brush Floor R Dr
+2442 Tom Brush Floor RL Dr
+2443 Tom Mono Hi Dr
+2444 Tom Mono Lo Dr
+2445 Tom Dry Hi Dr
+2446 Tom Dry Lo Dr
+2447 Tom Ambience Hi Dr
+2448 Tom Ambience Lo Dr
+2449 Tom T9 Hi Dr
+2450 Tom T9 Lo Dr
+2451 Tom T8 Dr
+2452 Tom Syn1 Dr
+2453 Tom Syn2 Dr
+2454 Tom AnSm Dr
+2455 Tom Dist Hi Dr
+2456 Tom Dist Lo Dr
+2457 Crash1 St Dr
+2458 Crash1 L Dr
+2459 Crash1 R Dr
+2460 Crash1 RL Dr
+2461 Crash2 St Dr
+2462 Crash2 L Dr
+2463 Crash2 R Dr
+2464 Crash2 RL Dr
+2465 Crash3 Dr
+2466 Crash4 Dr
+2467 Crash Brush1 St Dr
+2468 Crash Brush1 L Dr
+2469 Crash Brush1 R Dr
+2470 Crash Brush1 RL Dr
+2471 Crash Brush Cup St Dr
+2472 Crash Brush Cup L Dr
+2473 Crash Brush Cup R Dr
+2474 Crash Brush Cup RL Dr
+2475 Crash Brush2 St Dr
+2476 Crash Brush2 L Dr
+2477 Crash Brush2 R Dr
+2478 Crash Brush2 RL Dr
+2479 Hand Cymbal Open St Dr
+2480 Hand Cymbal Open L Dr
+2481 Hand Cymbal Open R Dr
+2482 Hand Cymbal Mute St Dr
+2483 Hand Cymbal Mute L Dr
+2484 Hand Cymbal Mute R Dr
+2485 Ride1 St Dr
+2486 Ride1 L Dr
+2487 Ride1 R Dr
+2488 Ride1 RL Dr
+2489 Ride2 St Dr
+2490 Ride2 L Dr
+2491 Ride2 R Dr
+2492 Ride2 RL Dr
+2493 Ride Cup1 St Dr
+2494 Ride Cup1 L Dr
+2495 Ride Cup1 R Dr
+2496 Ride Cup1 RL Dr
+2497 Ride Brush1 St Dr
+2498 Ride Brush1 L Dr
+2499 Ride Brush1 R Dr
+2500 Ride Brush1 RL Dr
+2501 Ride Brush2 St Dr
+2502 Ride Brush2 L Dr
+2503 Ride Brush2 R Dr
+2504 Ride Brush2 RL Dr
+2505 Ride Cup2 St Dr
+2506 Ride Cup2 L Dr
+2507 Ride Cup2 R Dr
+2508 Ride Cup2 RL Dr
+2509 Ride Mono Dr
+2510 Ride Cup Mono Dr
+2511 Ride Cup Mono2 Dr
+2512 China St Dr
+2513 China L Dr
+2514 China R Dr
+2515 China RL Dr
+2516 China2 Dr
+2517 Splash St Dr
+2518 Splash L Dr
+2519 Splash R Dr
+2520 Splash RL Dr
+2521 Crash T9 Dr
+2522 Crash T8 Dr
+2523 Crash Syn Dr
+2524 Ride T9 Dr
+2525 Reverse Cymbal Dr
+2526 AcousticGtr FX01 St Se
+2527 AcousticGtr FX01 L Se
+2528 AcousticGtr FX01 R Se
+2529 AcousticGtr FX02 St Se
+2530 AcousticGtr FX02 L Se
+2531 AcousticGtr FX02 R Se
+2532 AcousticGtr FX03 St Se
+2533 AcousticGtr FX03 L Se
+2534 AcousticGtr FX03 R Se
+2535 AcousticGtr FX04 St Se
+2536 AcousticGtr FX04 L Se
+2537 AcousticGtr FX04 R Se
+2538 AcousticGtr FX05 St Se
+2539 AcousticGtr FX05 L Se
+2540 AcousticGtr FX05 R Se
+2541 AcousticGtr FX06 St Se
+2542 AcousticGtr FX06 L Se
+2543 AcousticGtr FX06 R Se
+2544 AcousticGtr FX07 St Se
+2545 AcousticGtr FX07 L Se
+2546 AcousticGtr FX07 R Se
+2547 AcousticGtr FX08 St Se
+2548 AcousticGtr FX08 L Se
+2549 AcousticGtr FX08 R Se
+2550 AcousticGtr FX09 St Se
+2551 AcousticGtr FX09 L Se
+2552 AcousticGtr FX09 R Se
+2553 AcousticGtr FX10 St Se
+2554 AcousticGtr FX10 L Se
+2555 AcousticGtr FX10 R Se
+2556 AcousticGtr FX11 St Se
+2557 AcousticGtr FX11 L Se
+2558 AcousticGtr FX11 R Se
+2559 AcousticGtr FX12 St Se
+2560 AcousticGtr FX12 L Se
+2561 AcousticGtr FX12 R Se
+2562 AcousticGtr FX13 St Se
+2563 AcousticGtr FX13 L Se
+2564 AcousticGtr FX13 R Se
+2565 AcousticGtr FX14 St Se
+2566 AcousticGtr FX14 L Se
+2567 AcousticGtr FX14 R Se
+2568 AcousticGtr FX15 St Se
+2569 AcousticGtr FX15 L Se
+2570 AcousticGtr FX15 R Se
+2571 AcousticGtr FX16 St Se
+2572 AcousticGtr FX16 L Se
+2573 AcousticGtr FX16 R Se
+2574 AcousticGtr FX17 St Se
+2575 AcousticGtr FX17 L Se
+2576 AcousticGtr FX17 R Se
+2577 AcousticGtr FX18 St Se
+2578 AcousticGtr FX18 L Se
+2579 AcousticGtr FX18 R Se
+2580 AcousticGtr FX19 St Se
+2581 AcousticGtr FX19 L Se
+2582 AcousticGtr FX19 R Se
+2583 AcousticGtr FX20 St Se
+2584 AcousticGtr FX20 L Se
+2585 AcousticGtr FX20 R Se
+2586 AcousticGtr FX21 St Se
+2587 AcousticGtr FX21 L Se
+2588 AcousticGtr FX21 R Se
+2589 AcousticGtr FX22 St Se
+2590 AcousticGtr FX22 L Se
+2591 AcousticGtr FX22 R Se
+2592 AcousticGtr FX23 St Se
+2593 AcousticGtr FX23 L Se
+2594 AcousticGtr FX23 R Se
+2595 AcousticGtr FX24 St Se
+2596 AcousticGtr FX24 L Se
+2597 AcousticGtr FX24 R Se
+2598 AcousticGtr FX25 St Se
+2599 AcousticGtr FX25 L Se
+2600 AcousticGtr FX25 R Se
+2601 AcousticGtr FX26 St Se
+2602 AcousticGtr FX26 L Se
+2603 AcousticGtr FX26 R Se
+2604 AcousticGtr FX27 St Se
+2605 AcousticGtr FX27 L Se
+2606 AcousticGtr FX27 R Se
+2607 AcousticGtr FX28 St Se
+2608 AcousticGtr FX28 L Se
+2609 AcousticGtr FX28 R Se
+2610 AcousticGtr FX29 St Se
+2611 AcousticGtr FX29 L Se
+2612 AcousticGtr FX29 R Se
+2613 AcousticGtr FX30 St Se
+2614 AcousticGtr FX30 L Se
+2615 AcousticGtr FX30 R Se
+2616 ElectricGtr FX01 Se
+2617 ElectricGtr FX02 Se
+2618 ElectricGtr FX03 Se
+2619 ElectricGtr FX04 Se
+2620 ElectricGtr FX05 Se
+2621 ElectricGtr FX06 Se
+2622 ElectricGtr FX07 Se
+2623 ElectricGtr FX08 Se
+2624 ElectricGtr FX09 Se
+2625 ElectricGtr FX10 Se
+2626 ElectricGtr FX11 Se
+2627 ElectricGtr FX12 Se
+2628 ElectricGtr FX13 Se
+2629 ElectricGtr FX14 Se
+2630 ElectricGtr FX15 Se
+2631 ElectricGtr FX16 Se
+2632 ElectricGtr FX17 Se
+2633 ElectricGtr FX18 Se
+2634 ElectricGtr FX19 Se
+2635 ElectricGtr FX20 Se
+2636 ElectricGtr FX21 Se
+2637 ElectricGtr FX22 Se
+2638 ElectricGtr FX23 Se
+2639 Acoustic Bass FX01 Se
+2640 Acoustic Bass FX02 Se
+2641 Acoustic Bass FX03 Se
+2642 Acoustic Bass FX04 Se
+2643 Acoustic Bass FX05 Se
+2644 Acoustic Bass FX06 Se
+2645 Acoustic Bass FX07 Se
+2646 Acoustic Bass FX08 Se
+2647 Acoustic Bass FX09 Se
+2648 Electric Bass FX 01 Se
+2649 Electric Bass FX 02 Se
+2650 Electric Bass FX 03 Se
+2651 Electric Bass FX 04 Se
+2652 Electric Bass FX 05 Se
+2653 Electric Bass FX 06 Se
+2654 Electric Bass FX 07 Se
+2655 Electric Bass FX 08 Se
+2656 Electric Bass FX 09 Se
+2657 Electric Bass FX 10 Se
+2658 Electric Bass FX 11 Se
+2659 Electric Bass FX 12 Se
+2660 Electric Bass FX 13 Se
+2661 Electric Bass FX 14 Se
+2662 Electric Bass FX 15 Se
+2663 Electric Bass FX 16 Se
+2664 Electric Bass FX 17 Se
+2665 Electric Bass FX 18 Se
+2666 Electric Bass FX 19 Se
+2667 Electric Bass FX 20 Se
+2668 Electric Bass FX 21 Se
+2669 Electric Bass FX 22 Se
+2670 Electric Bass FX 23 Se
