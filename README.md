@@ -20,3 +20,5 @@ $programDescription =
 // - handle Melas headers (allxf files, etc)
 // - handle basic errors
 ```
+
+![Screenshot](docs/screenshot.png)
