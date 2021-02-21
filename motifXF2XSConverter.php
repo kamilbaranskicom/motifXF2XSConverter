@@ -18,8 +18,7 @@ $programDescription = 'this program converts Yamaha Motif XF files (SysEx or Joh
 
 
 convertFile('5pad.voi');
-
-// convertFile('XFfactory sysex.allxf');
+// convertFile('sampledata-ignore/XF factory sysex small.allxf');
 
 
 function convertFile($filename) {
